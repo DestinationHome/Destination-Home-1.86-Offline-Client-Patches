@@ -2,6 +2,8 @@
 
 The purpose of this repository is provide a source of the latest patches/updates for PlayStation Home's 1.86 offline client. These patches may include new clothing, LMO's, scripts, screenlink, .SDC's/Metadata fixes & more for the end user. 
 
+I recommend for those who want to install patches, to make sure to installing each patch in chronological order, so you won't accidently overwrite any file's or changes in later patches. Skipping patches can lead into items/spaces not showing up correctly on your navigator, thus it's best for the end user to start with patch v1.00 and just go > up to whatever is the latest version.
+
 Disclaimer: This repository is purely for preservation and educational purposes.
 
 How can help you out the project?
