@@ -24,3 +24,4 @@ Our team is also looking for any development builds of PlayStation Home which in
 ➤ Destination Home Official Website: http://destinationho.me/
 ➤ Destination Home Preservation (Alternative Discord Link): https://discord.gg/QguSBT3
 ➤ Destination Home Twitch Channel: https://www.twitch.tv/playstationhome/
+ 
