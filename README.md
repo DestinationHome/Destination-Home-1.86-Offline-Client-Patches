@@ -6,13 +6,31 @@ I recommend for those who want to install patches, to make sure to installing ea
 
 Disclaimer: This repository is purely for preservation and educational purposes.
 
-How can help you out the project?
+**How can you help out the project?**
 
 Currently our development team is looking for anyone who still has PlayStation Home on there PS3 console, any data we can obtain can help the preservation for home. Our primary goal is to get Home back running online. So our team has been working on trying to emulate Sony's Medius server via using the PlayStation 3 CFW & RPCS3.
 
 For more information on how to donate cache data please refer to this guide: https://www.youtube.com/watch?v=BppPWh49ROU&feature=youtu.be
 
-Our team is also looking for any development builds of PlayStation Home which included's:
+**Our team is also looking for any Development/PROD-QA/Alpha-Beta/Retail builds of PlayStation Home which included's:**
+
+*NPEA00013: Development, Alpha, Beta, PROD-QA
+
+*NPIA00010: Development & PROD-QA PlayStation Home 
+
+*NPIA00005: Retail PlayStation Home
+
+-------------------------------------------------------
+
+❤️ Join/Check out our social platforms:
+
+➤ Destination Home Preservation: https://discord.gg/PlayStationHome
+
+➤ Destination Home Official Website: http://destinationho.me/
+
+➤ Destination Home Preservation (Alternative Discord Link): https://discord.gg/QguSBT3
+
+➤ Destination Home Twitch Channel: https://www.twitch.tv/playstationhome/
 
 
  
