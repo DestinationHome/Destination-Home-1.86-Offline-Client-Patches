@@ -14,23 +14,25 @@ For more information on how to donate cache data please refer to this guide: htt
 
 **Our team is also looking for any Development/PROD-QA/Alpha-Beta/Retail builds of PlayStation Home which included's:**
 
-*NPEA00013: Development, Alpha, Beta, PROD-QA
+*NPEA00013: Development, Alpha, Beta, PROD-QA 
 
-*NPIA00010: Development & PROD-QA PlayStation Home 
+*NPIA00010: Development & PROD-QA 
 
-*NPIA00005: Retail PlayStation Home
+*NPIA00005: Retail 
 
 -------------------------------------------------------
 
 ❤️ Join/Check out our social platforms:
 
-➤ Destination Home Preservation: https://discord.gg/PlayStationHome
+➤ Destination Home Preservation Official Discord: https://discord.gg/PlayStationHome
 
 ➤ Destination Home Official Website: http://destinationho.me/
 
 ➤ Destination Home Preservation (Alternative Discord Link): https://discord.gg/QguSBT3
 
 ➤ Destination Home Twitch Channel: https://www.twitch.tv/playstationhome/
+
+➤ Destination Home Official YouTube Channel: https://www.youtube.com/channel/UCQhwhFevEgsRqMTHof7FwPQ
 
 
  
