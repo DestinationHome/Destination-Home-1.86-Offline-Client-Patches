@@ -14,16 +14,5 @@ For more information on how to donate cache data please refer to this guide: htt
 
 Our team is also looking for any development builds of PlayStation Home which included's:
 
-• NPEA00013 "Beta Home"
-• NPIA00010 "Developer PlayStation Home"
-• HDK's
 
--------------------------------------------------------
-
-❤️ Join/Check out our social platforms:
-
-➤ Destination Home Preservation: https://discord.gg/PlayStationHome
-➤ Destination Home Official Website: http://destinationho.me/
-➤ Destination Home Preservation (Alternative Discord Link): https://discord.gg/QguSBT3
-➤ Destination Home Twitch Channel: https://www.twitch.tv/playstationhome/
  
