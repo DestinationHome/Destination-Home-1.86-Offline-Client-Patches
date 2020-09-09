@@ -14,11 +14,11 @@ For more information on how to donate cache data please refer to this guide: htt
 
 **Our team is also looking for any Development/PROD-QA/Alpha-Beta/Retail builds of PlayStation Home which included's:**
 
-* • NPEA00013: Development, Alpha, Beta, PROD-QA*
+* NPEA00013: Development, Alpha, Beta, PROD-QA
 
-* • NPIA00010: Development & PROD-QA 
+* NPIA00010: Development & PROD-QA 
 
-* • NPIA00005: Retail*
+* NPIA00005: Retail
 
 -------------------------------------------------------
 
