@@ -1,0 +1,2059 @@
+<SCENELIST>
+  <!--  THIS IS THE LOCALSCENELIST.XML THAT CONTAINS TEMPORARY AND TEST SCENES - THESE SCENES DO NOT APPEAR IN THE RELEASED BUILD -->
+  
+  <!--
+  
+★ Thank you for downloading Destination Home's 1.86 Offline Client! For more information about this build or wanting to donate your PlayStation Home Cache Data
+feel free to join our Discord Server: https://discord.gg/QguSBT3
+
+★ Check out our social medias:
+
+❤️ Join/Check out our social platforms:
+
+➤ Destination Home Preservation: https://discord.gg/PlayStationHome
+➤ Destination Home Official Website: http://destinationho.me/
+➤ Destination Home Preservation (Alternative Discord Link): https://discord.gg/QguSBT3
+➤ Destination Home Twitch Channel: https://www.twitch.tv/playstationhome/
+
+★ P.S: Special Thanks to Pongo86 for releasing the 1.86 Developer Client to the public.
+
+<!-- ==================================================================================================================================================== -->
+
+<!--Destination Home 1.86 Patch v1.31:
+
+Patch v1.31 is now out! Here is the change logs/debug patch notes 9/12/2020. Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+
+⚠️ Important Information: 
+
+One thing I would like to state for RPCS3 client user's is to make sure not to update your RPCS3 application due to it causes issue's for running any PlayStation Home Client. In this patch I will leave the correct version of RPCS3 that user's need to utilize if you want to run Home succesfully via for any version (1.00 - 1.86) 
+
+Be sure to not update RPCS3, as well to the latest version until futher notice best regards Nagato.
+
+
+• User's have stated that Home won't boot up at launch.
+
+🏠 Spaces:
+
+• SeaClyff Retreat Personal Space Game Mechanic + Including original icon + .SDC metadata.
+• The Complex nDreams Apartment + Including original icon + .SDC metadata.
+• The Irish Pub Apartment + Including original icon + .SDC metadata.
+• The Prairie Saloon ClubHouse Lockwood + Including original icon + .SDC metadata.
+• Tycoon Penthouse Apartment + Including original icon + .SDC metadata.
+• Virtua Tennis 4 Baseline Battle Personal Space (SEGA) + Including original icon + .SDC metadata.
+
+🎥 Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Virtua Tennis 4 Baseline Battle Personal Space (SEGA): Added original Vitura Tennis Advert Video.
+
+🐞 Known Issue's/Bugs:
+
+• None for this patch.
+
+Disclaimer: This project is purely for preservation/educational purposes.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--Destination Home 1.86 Patch v1.30:
+
+Patch v1.30 is now out! Here is the change logs/debug patch notes 8/31/2020. Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+🎥 Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Namco Theatre: Added original/custom screenlink content. (Ridge Racer 7's, Tekken 6 PSP,  Soulcalibur, NAMCO BANDAI Showcase video)
+• Red Bull Beach: Added original/custom screenlink content. (2010 Flugtag Showcase Video)
+• Winter Holiday Hullabaloo 2011: Added original/custom screenlink content. (Original Winter 2011 Holiday PlayStation Home Video.)
+• SCEE Shopping Mall East: Added originalcustom screenlink content.
+
+🐞 Known Issue's/Bugs:
+
+• None for this patch.
+
+Disclaimer: This project is purely for preservation/educational purposes.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Destination Home 1.86 Patch v1.29:
+
+Patch v1.29 is now out! Here is the change logs/debug patch notes 8/27/2020. Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🎥 Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Acorn Meadows Park: Added original screenlink content. 
+• PixelJunk Exhibition: Added original screenlink content.
+• SCEE Home Square Version 3: Added custom screenlink content.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🐞 Known Issue's/Bugs:
+
+• None for this patch.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Disclaimer: This project is purely for preservation/educational purposes.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--Destination Home 1.86 Patch v1.28:
+
+Patch v1.28 is now out! Here is the change logs/debug patch notes 8/27/2020. Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+Note this was a quick patch as I noticed, that I forgot to add the original BGM source files to the LittleBigPlanet Playground Public space. 
+
+
+- Best Regards, Nagato. 8/27/2020
+
+🎥 Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• LittleBigPlanet™️ Playground: Added the original audio files, for the corresponding scene.
+
+🔊 Audio Files:
+
+• LittleBigPlanet™️ Playground: Official in-game BGM source files. *via .MP3* 
+
+🐞 Known Issue's/Bugs:
+
+• None for this patch.
+
+Disclaimer: This project is purely for preservation/educational purposes.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--Destination Home 1.86 Patch v1.27:
+
+Patch v1.27 is now out! Here is the change logs/debug patch notes 8/18/2020. Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+🏠 Spaces:
+
+• Radd & Son Garage Rooftop Apartment + Including original icon + .SDC metadata.
+• Lockwood Dream Island Apartment + Including original icon + .SDC metadata.
+
+🔊 Audio Files:
+
+• City of Flowers Penthouse "Window to the World" Personal Space GranZella (SCEA Version): Official in-game BGM source files. via .MP3
+
+👚👕 Clothing:
+
+• ガスマスク2(白・男性用) (Peakvox White Male Japanese Half-Face Gas Mask) - Nagato
+• 照英王国裏ジャージパンツ(ホワイト) 女性用 (Teruei Kingdom Back Jersey Pants (White) For Women) - Nagato
+• 照英王国裏ジャージトップ(ホワイト) (Teruei Kingdom back jersey top (white) For women) - Nagato
+
+🐞 Known Issue's/Bugs:
+
+• Radd & Son Garage Rooftop mini-games and key functions are encrypted (lua)
+• City of Flowers Penthouse apartment has an audio issue I assume do to lua. However I have provided the source audio files for that space.
+
+Disclaimer: This project is purely for preservation/educational purposes.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--Destination Home 1.86 Patch v1.26 (Pre-Release):
+
+Patch v1.26 is now out! Here is the change logs/debug patch notes 8/12/2020. Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+🏠 Spaces:
+
+• City of Flowers Penthouse "Window to the World" Personal Space GranZella (SCEA Version)
+
+🎥 Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Hudson Bomber Dome: Added original screenlinks - Toykyle
+• Hudson Gate: Added original screenlinks - Toykyle
+• Hudson Theater: Added original screenlinks - Toykyle
+• Konami Penthouse: Added original screenlinks. - Nagato
+• Namco Arcade Center: Added original screenlinks - Nagato/Toykyle (Update)
+• PixelJunk Exhibition: Added original screenlinks - Nagato/Toykyle
+• WipEout: Added original screenlinks. - Nagato/Toykyle (Update)
+• 銀玉人情商店街 (IREM Market SCEJ): Added original screenlinks - Toykyle
+
+
+🐞 Known Issue's/Bugs:
+
+• Note that this patch will be a pre-release & it's final version may have some key changes for the screenlinks for scenes such as Konami Penthouse, WipEout etc.
+• Konami Penthouse Screenlinks: Certain posters will not show up due to lua script issues & missing game data files.
+• WipEout Atmos is down due to lua. *Possibly a minigame host the atmos file just like RedBull Air Race.*
+
+Disclaimer: This project is purely for preservation/educational purposes.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--Destination Home 1.86 Patch v1.25:
+
+Patch v1.25 is now out! Here is the change logs/debug patch notes 7/22/2020. Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+🎥 Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• The LucasArts Star Wars Cantina: Added original screenlink + custom content from cache data + online. - Nagato/Toykyle.
+• 夕暮れのグランゼーラ広場 (GranZella Square Sunset): Added original screenlink + custom content from cache data + online. - Nagato
+• X7 VIP Space: Added custom music/custom icon's over in game models (The bodyguards for x7) - SlyCooperReloadCoded
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--Destination Home 1.86 Patch v1.24:
+
+Patch v1.24 is now out! Here is the change logs/debug patch notes 7/17/2020. Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+🏠 Spaces:
+
+• Hed Kandi Beach Event Space: + With Metadata via .SDC & Thumbnail & Screenlink fixes both Original & Custom. - Nagato
+
+🐞 Known Issue's/Bugs:
+
+• None for this patch.
+
+Disclaimer: This project is purely for preservation/educational purposes.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--Destination Home 1.86 Patch v1.23:
+
+Patch v1.23 is now out! Here is the change logs/debug patch notes 7/17/2020. Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+
+🏠 Spaces:
+
+• カプコンスカイラウンジ (Capcom Sky Lounge) Japanese Exclusive + With Metadata via .SDC & Thumbnail - Nagato
+
+🎥 Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+
+• Tekken 6 - Mishima Zaibatsu Recreation Floor: Added original screenlink content from official cache data. - Toykyle/Nagato
+• WipEout Museum: Added original screenlink content from official cache data. - Toykyle/Nagato
+• Namco Arcade Center: Added original screenlink content from official cache data. + Delisted the Namco Arcade Vol 3 video. - Toykyle/Nagato
+
+
+Clothing:
+
+• ハロウィンヒツギ(男性用) Coffin For Male - Junez
+• Sodium Dev Tank Top Female - Nagato
+
+🐞 Known Issue's/Bugs:
+
+• None for this patch.
+
+Disclaimer: This project is purely for preservation/educational purposes.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--Destination Home 1.86 Patch v1.22:
+
+Patch v1.22 is now out! Here is the change logs/debug patch notes 7/12/2020. Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+🎥 Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• The PlayGround: Added original screenlink content from official cache data. - Nagato
+• SCEJ Marketplace: Added original screenlink + custom content from cache data + online. - Nagato
+
+🏃 Locomotion's/Companions:
+
+Credit goes to Calibre for rebuilding all of these LMO's & Companions for the Destination Home community.
+
+• AZMD Normal Zombie!
+• Boxer - Companion
+• Chairman Meow
+• Forsaken Planet – Cow
+• Gribbler the Dragon
+• Highland Terrier
+• JTTW Cloud (Locomotion)
+• Jack Russell
+• Puppy Dog
+
+🐞 Known Issue's/Bugs:
+
+• None for this patch.
+
+Disclaimer: This project is purely for preservation/educational purposes.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--Debug Patch Notes 7/3/2020 v1.21:
+  
+Patch Completed by Nagato & QA.
+=============================
+
+Important Information: 
+
+• I've disabled the Burn Zombie Burn Mini game due to it the mini-game triggering in random spaces/scenes. To re-enable the mini-game please refer to the "Burn Zombie Burn Maze Enable Mini-Game Patch.RAR"
+
+:homes: New Spaces:
+
+• Gamescom 2013 Event: + With Metadata via .SDC & Thumbnail - Nagato
+• Harry Potter - Pottermore Forbidden Forest: (Broomstick Racing) + With Metadata via .SDC & Thumbnail - Nagato
+• Killer Plants from Outer Space: + With Metadata via .SDC & Thumbnail - Nagato
+• Little Big Planet Toyota Prius Solar Scramble: + With Metadata via .SDC & Thumbnail - Nagato
+• Masquerade Ball - The Ballroom Personal Space:  + With Metadata via .SDC & Thumbnail - Nagato
+• Prehistoric Valley Personal Space:  + With Metadata via .SDC & Thumbnail - Nagato
+• Red Bull Beach: + With Metadata via .SDC & Thumbnail - Nagato
+• SCEE Cinema Auditorium HDK 0.89:+ With Metadata via .SDC & Thumbnail - Nagato
+• SCEE Test Arcade Cabinet Game Development HDK 0.89: + With Metadata via .SDC & Thumbnail - Nagato
+• SCEE Test Ball Physics Development HDK 0.89: + With Metadata via .SDC & Thumbnail - Nagato
+• SCEE Test Mini-Game Development HDK 0.89: + With Metadata via .SDC & Thumbnail - Nagato
+• SCEE Test Video Development HDK 0.89: + With Metadata via .SDC & Thumbnail - Nagato
+• SCEE Water Development Test HDK 0.89 + With Metadata via .SDC & Thumbnail - Nagato
+• SCEJ ホームスクエア (Japan Home Square Original) HDK 1.80.0.53.PUB: + With Metadata via .SDC & Thumbnail - Nagato
+• Serenity Plaza:  + With Metadata via .SDC & Thumbnail - Nagato
+• おしゃべりファーム (Oshaberi Farms):  + With Metadata via .SDC & Thumbnail - Nagato
+• おしゃべり農園 (Oshaberi Farm Garden):  + With Metadata via .SDC & Thumbnail - Nagato
+• ピークヴォックスモンスター (Peakvox Monsters):  + With Metadata via .SDC & Thumbnail - Nagato
+• 夕暮れのグランゼーラ広場 GranZela Square Sunset:  With Metadata via .SDC & Thumbnail - Nagato
+• 怪物ジャポン 一本釣り (GAW Japanese Monster Fishing): + With Metadata via .SDC & Thumbnail - Nagato
+• 昭栄王国ダンスフロア (Shoei Kingdom Dance Floor): + With Metadata via .SDC & Thumbnail + (Custom Spawnpoint) - Nagato
+• 照英王国 Shoei Kingdom (JP) Ayame Kingdom Edition HDK 1.80.0.53.PUB: + With Metadata via .SDC & Thumbnail - Nagato
+• 銀玉人情商店街 (IREM Market Original): + With Metadata via .SDC & Thumbnail - Nagato
+
+:toolbox:  v2.00 Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Gamescom 2013 Event: Added original video content (PlayStation 4 Launch Video) - Nagato
+• Original Home Square - Renamed "SCEE Original Home Square 0.5.1" - Nagato
+• SCEA Auditorium 6: Added original video content. (PlayStation Home Beta GameSpot Exclusive)
+• SCEJ ホームスクエア (Japan Home Square Original) HDK 1.80.0.53.PUB: Fixed Atmosphere/Skybox. - Nagato
+• Shoei Kingdom (JP) 照英王国: Changed the sky box to a sunset setting. - Nagato
+• Wahawk Command Center: Fixed original navigator icon from cache. - Nagato/Dedsec
+• 照英王国 Shoei Kingdom (JP) Ayame Kingdom Edition HDK 1.80.0.53.PUB: Fixed atmosphere & spawn point. - Nagato
+• 銀玉人情商店街 (Irem Market) - Renamed to "銀玉人情商店街 冬" for IREM Market Winter
+
+👚👕 Clothing:
+
+• Animated PS Home Moderator Jacket (Male) - Nagato
+
+🐞 Known Issue's/Bugs:
+
+• Harry Potter - Pottermore Forbidden Forest (Broomstick Racing): Mini-game isn't active due to encrypted lua's + not having the actual mini-game itself. As well this cause issues for the space to fully to "load."
+• Killer Plants from Outer Space: Mini-game isn't active due to encrypted lua's + not having the actual mini-game itself. As well this cause issues for the space to fully to "load."
+• Little Big Planet Toyota Prius Solar Scramble: The sky isn't displaying due to mini-game. (Encrypted lua script.)
+• SCEE Test Ball Physics Development HDK 0.89 Scene: The ball in the space, doesn't show due to a failed resource. *Possibly due to incompatibility with 1.86 as this scene was built for the 0.80 HDK.
+• Serenity Plaza has some missing building .MDL's, due to the space calling it as other "objects"
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--Debug Patch Notes 6/23/2020 CORE VERSION 2.00 Client
+
+This client has patches v.1.00 - v1.20 pre-installed, this means that this build includes all of the clothing, spaces, general fixes, mini-games & more! *As of 6/23/2020* Instead of downloading each patch, you can install this client which will have everything pre-installed out the box! As well this client has some quick patches that we're added last minute before compiling for the end user, for more information check "Core v2.00 Patches below."
+
+What's New In This Build:
+
+• 270+ Spaces from all regions of Home! *This includes SCEA/SCEE/SCEJ/SCEA *Asia* & Debug spaces.
+• 1000+ Clothing Items for Male/Female *This includes T-Shirts, Jeans, Hairs/Facial Hairs, Accesories, Sneakers & more!*
+• Over 10+ mini-games & interactive items! *For select spaces, note not all spaces mini-games can be fixed due to encryption.*
+• Updated TestInventory.XML & LocalSceneList.XML.
+• Fixed metadata/scenes names & icons.
+• Fixed atmosphere issues & probes.
+• Custom hubstartup scripts & original scripts. 
+• 150+ LMO's, Companions both for Male/Female.
+• Custom Preset Configuarions for the end user: (PS3/RPCS3)
+• Fixed Scene metadata & icons.
+• Fixed Scene Screenlinks for 10+ Spaces. *Not all spaces, have screenlink fixes. Note in future patches there will be screenlink updates to newer spaces.*
+• 200+ Furniture Items for personal spaces.
+
+🐞 Known Issue's/Bugs:
+
+• There are still clothing objects with missing icons. Which in future update's we will take the time to fix.
+
+• Fixed loading times via for loading clothing items & bootup. By using original commands and disabling the TestInventory.XML. *NOTE For those who have custom UUID's or TestInventory.XML's please be sure to back up your files* As for regular user's, you can ignore this statement. Overall booting home might take 1-2 minutes because it still has to mount it's core files and also read the LocalScene.XML files. However while your in Home you can access any space as soon as your into the navigator.
+
+• Note this patch won't fix any bug's that deal with any texture/graphical issues via RPCS3. RPSC3 is still a emulator, thus not utilizing original PS3 hardware. Results may vary depending on your PC specs on compatiblity when it comes to playing with the Destination Home 1.86 Client. Playing on a DEX/Debug PS3 unit, will be the best method on running this client.
+
+Core v2.00 Patches: 
+
+• v.1.00 - v1.20 pre-installed & Q/A.
+
+v2.00 New Spaces: 
+
+• GranZella Edo Tenement House Personal Space: New Space.
+• SCEA Central Plaza KillZone Edition: New Space. + Original Meta Thumbnails.
+• Sodium Blimp: New Space. + Added original/custom themed content via screenlinks.
+
+v2.00 Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Acorn Meadows Park Halloween Edition: Fixed original navigator icon from cache. - Nagato
+• Assassin's Creed II Apartment: Atmosphere Fix.  - Nagato
+• Audi Home Terminal New Version: Fixed original navigator icon from cache. - Nagato
+• Audi Home Terminal Old/New: Added original video content themed revolving around the original Audi automotive group. + With posters. - Nagato
+• Buzz! Quiz Game Space: Fixed original navigator icon from cache. - Nagato
+• Diamond Beach Yacht Club & Marina: Fixed original navigator icon from cache. & original name via .SDC - Nagato
+• Disgaea 4 Lounge: Added video content themed revolving around the Disgaea 4 game.
+• Drop Science Subway Personal Space: Atmosphere Fix.  - Nagato
+• Drop Science Subway Personal Spaceway: Fixed original navigator icon from cache. - Nagato
+• Feva Arena Entrance: Added original/custom content themed revolving around the original Feva Arena space. - Nagato
+• Feva Arena: Added original content revolving around the Fifa franchise. - Nagato
+• Game Moonbase: Added original posters/video content themed revolving around the GAME franchise. Added it's original music back to the space as well.
+• GranZella Southern Island Hideway Valentine Day: Fixed navigator icon with a new custom picture. - Nagato
+• Great Edo of Nippon: Monoke Bon Festival: Fixed original navigator icon from cache. - Nagato
+• Harbour Studio: Fixed original navigator icon from cache. - Nagato
+• Hed Kandi Music Unlimited: Added original/custom themed content revolving around the Hed Kandi music franchise. - Nagato
+• IREM Gathering Place for Cave Explores: Fixed original navigator icon from cache. - Nagato
+• Island Bungalow Apartment: Fixed original navigator icon from cache. - Nagato
+• Island Bungalow Apartment: Fixed original navigator icon from cache. - Nagato
+• LOOT Hollywood Hills Nighttime Estate: Fixed original navigator icon from cache. - Nagato
+• Loot Space Apartment: Fixed original navigator icon from cache. - Nagato
+• Modnation Racing Pit Stop Club: Added original/custom themed content revolving around the Modnation Racer franchise. - Nagato
+• Novus Prime: Fixed original navigator icon from cache. - Nagato
+• Party's at Jess Apartment: Fixed original navigator icon from cache. - Nagato
+• PlayStation Home Mansion Garage: Atmosphere Fix.  - Nagato
+• SCEA Action District: Added original/custom themed content via screenlinks.  - Nagato
+• SCEA Central Plaza: Removed Chain Swing 720p Video due to PS3 memory issues, + re-added the Chain Swing MP3 file in the Jukebox. (Credit to Juanma for Jukebox Fixes/Mod)
+• SCEA Mall 1st Floor: Added original posters/video content themed revolving around the SCEA Home Mall Stores/Outlets. - Nagato
+• SCEA Mall 2nd Floor: Added original posters/video content themed revolving around the SCEA Home Mall Stores/Outlets. - Nagato
+• SCEA The Hub Street Fighter X Tekken: Changed name in LocalSceneList.XML
+• SCEE Indie Park: Added custom themed content revolving around the indie development scene for PlayStation. - Nagato
+• SCEJ Marketplace "マーケットプレイス:" Fixed original navigator icon from cache. - Nagato
+• Summer House: Fixed original navigator icon from cache. - Nagato
+• The Midnight Glade: Fixed original Podi Lockwood Advertisement video. - Nagato
+• Tropical Escape SCEA: Fixed original navigator icon from cache. - Nagato
+• Tuscan Villa Apartment: Fixed original navigator icon from cache. - Nagato
+• UFC Octagon Personal Apartment: Added custom themed content revolving around the UFC Fighting franchise. This includes posters/videos. & Fixed navigator icon with a new custom picture. Nagato
+• Wizards Den Personal Space: Fixed original navigator icon from cache. - Nagato
+• x7 VIP Club:  Fixed original navigator icon from cache.
+• シアター (SCEJ Japan Cinema Auditorium): Fixed original navigator icon from cache. - Nagato
+
+Clothing Texture Fixes:
+
+• Drop Science Varsity Jacket - Word (Male) - Texture fix: Nagato
+
+------------------------------------------------------------------------------------------------------------------------
+
+<!--Debug Patch Notes 6/23/2020 v1.20:
+  
+Patch Completed by Nagato & QA.
+
+===========================
+:911pxPSHome_Icon: Destination Home 1.86 Patch v1.20:
+
+Patch v1.20 is now out! Here is the change logs/debug patch notes 6/23/2020.
+
+Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+:homes: Spaces: 
+
+• Feva Arena Entrance + With .SDC metadata. - Nagato
+• ModNation Racing Pit Stop Club + With .SDC metadata. - Nagato
+
+Special thanks @Billy for making this possible.
+
+:movie_camera: Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Sodium One Apartment: Fixed profile icon in the Navigator. - Nagato
+• Diamond Beach Yacht Club and Marina: Fixed original Metadata via for .SDC
+• SCEE Tree House Apartment: Fixed to be in the apartments/private spaces section.
+• Luxury Yacht Santorini Greece Personal Space: Fixed to be in the apartments/private spaces section.
+• Las Vegas Suite Personal Space: Fixed to be in the apartments/private spaces section.
+
+:womans_clothes::shirt: Clothing: 
+
+• Raver - Ponytail Custom Patch - Jinx *This will fix the LOD issue*
+• Casual Sports Jacket Enjoy Football Germany Feva Arena (Male) - Nagato 
+• Time Crisis™. Razing Storm™. headgear with HUD (Male) - Nagato/Toykyle
+• Master Higgins Kanji T-shirt - [十六連射] (Men's) - Nagato
+• Oakland Raiders NFL Jersey (Female) - Nagato
+• New York Giants NFL Jersey (Male) - Nagato 
+
+🪑 Furniture: 
+
+I'm proud to annouce for this patch we are introducing funiture for your personal spaces! In this patch there are 271 Unique furniture items for you to explore & create your own "Home!" For more information to know which items exactly has been added to today's client please refer to the  "Official Furniture List.txt" which will detail just that.
+
+Special thanks to Jinx for her hard work for creating the new furniture patch!
+
+• Chairs: 47 Unique Items.
+• Flooring: 8 Unique Items.
+• Footstool: 3 Unique Items.
+• Frame: 55 Unique Items.
+• Light: 15 Unique Items.
+• Ornament: 79 Unique Items.
+• Sofa: 18 Unique Items.
+• Table: 46 Unique Items.
+
+Credits: Jinx, Junez, Nagato. *This Includes Rebuiding/Renaming/Q.A.*
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+• Since the overall client is almost at 20GB "18.0GB's" the startup/boot time when launching Home will take a little longer then normal. The reason to this is because the client has to verify/mount over 1,000+ Items & preload scene data at boot (there is over 200+ spaces that Home has to scan.) As far as I know, there is no way to minimize the loading time for the offline client. I would recomend when booting Home just wait for 1-2 minutes before launching any scene/space so you can avoid any errors.
+
+==================
+------------------------------------------------------------------------------------------------------------------------
+<!--Debug Patch Notes 6/21/2020 v1.19:
+  
+Patch Completed by Nagato & QA.
+
+===========================
+:911pxPSHome_Icon: Destination Home 1.86 Patch v1.19:
+
+Patch v1.19 is now out! Here is the change logs/debug patch notes 6/22/2020.
+
+Best Regards, The Destination Home Team/Offline Content Assembly Team.
+
+:movie_camera: Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• 四季彩の部屋 Peakvox Seasonal Themed Room: Fixed original navigator icon from cache. - Nagato
+• Inferno Apartment: Fixed original navigator icon from cache. - Nagato
+• Gothic Cathedral: Fixed original navigator icon from cache. - Nagato
+• Doctor Who Tardis Apartment: Fixed to be in the apartments/private spaces section. & Fixed original navigator icon from cache. - Nagato
+• Hed Kandi Music Unlimited: Fixed original navigator icon from cache. - Nagato
+• Theatre:  Fixed original navigator icon from cache. - Nagato
+• LOOT Space Station: Fixed original navigator icon from cache. - Nagato
+• Ghostbusters Firehouse On Location Apartment: Fixed original navigator icon from cache. - Nagato
+• Far Cry 2: Reuben’s Office: Fixed original navigator icon from cache. - Nagato
+• Far Cry 2: Train Station: Fixed original navigator icon from cache. - Nagato
+• The Ford Showroom: Fixed original navigator icon from cache. - Nagato
+
+:womans_clothes::shirt: Clothing: 
+
+• ランカ・リー　親衛隊はちまき（女性用）Ranka Lee Sachimaki Female - Junez
+• シェリル・ノーム　親衛隊はちまき（男性用）Sheryl Nome Guards Hachimaki (for men)  - Junez
+• ランカ・リー　親衛隊はちまき（男性用）Ranka Lee Guards Group Hachimaki Male - (Picture Icon Fix)  - Junez
+• Red Bull Skateboarding Hoodie (for Male) - Nagato
+• 雪歩名入り応援はちまき・男性 Supporters with Yukiho name Hachimaki (Male)  - Junez
+• inFamous 2 Cole MacGrath Costume (Male) - Nagato.
+• ブラック★ロックシューター　なりきりロックカノン) Black Rock Shooter Canon Re-Fixed - Junez
+• ブラック★ロックシューター　なりきりコート Black Rock Shooter Outfit (Cape Version Re Fixed) - Junez
+
+Credits: Jinx, Junez, Nagato. *This Includes Rebuiding/Renaming/Q.A.*
+
+==================
+
+------------------------------------------------------------------------------------------------------------------------
+<!--Debug Patch Notes 6/20/2020 v1.18:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+:house: Added 1 New Space + With MetaData:
+
+• SCEJ ホームスクエア 日没 (Japan Home Square Sunset) - Nagato
+
+:movie_camera: Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Feva Arena: Fixed original navigator icon from cache. - Nagato
+• GranZella Glittering Sands TANABATA 2013 Event Night Edition: Fixed original navigator icon from cache. - Nagato
+• IREM Seaside: Fixed original navigator icon from cache. - Nagato
+• Infamous The Abandoned Docks Of Empire City: Fixed original navigator icon from cache. - Nagato
+• KillZone 2 Visari Throne Room: Fixed original navigator icon from cache. - Nagato
+• Konami Penthouse: Fixed original navigator icon from cache. - Nagato
+• Lockwood Dream Cental: Fixed original navigator icon from cache. - Nagato
+• Loco Roco Mui Mui Island: Fixed original navigator icon from cache. - Nagato
+• Loco Roco Mui Mui Ship: Fixed original navigator icon from cache. - Nagato
+• Namco Arcade Center: Fixed original navigator icon from cache. - Nagato
+• Namco Theatre: Fixed original navigator icon from cache. - Nagato
+• PlayStation The Studio Mini's Space: Fixed original navigator icon from cache. - Nagato
+• Red Bull Air Race: Fixed original navigator icon from cache. - Nagato
+• Red Bull Beach "Hub": Fixed original navigator icon from cache. & Renamed to "Red Bull Hub" via in SDC.- Nagato
+• SCEA First Floor Mall:  Fixed original navigator icon from cache. - Nagato
+• SCEA Second Floor Mall:  Fixed original navigator icon from cache. - Nagato
+• SCEE Christmas/Winter Home Square Version 3: Fixed original navigator icon from cache. - Nagato
+• SCEE Home Square Version 2 (Christmas/Winter Edition): Fixed original navigator icon from cache. & Replaced the sky. - Nagato
+• SCEE Home Square Version 2 (Halloween Edition): Fixed original navigator icon from cache. - Nagato
+• SCEE Home Square Version 2: Fixed original navigator icon from cache. - Nagato
+• SCEE Home Square Version 3 (EU): Fixed original navigator icon from cache. & Renamed to "SCEE Home Square Version 3" via in SDC. - Nagato
+• SCEE Home Theatre Cinema: Fixed original navigator icon from cache. - Nagato
+• SCEE Shopping Mall West: Fixed original navigator icon from cache. - Nagato
+• SCEJ Music Cafe ホームカフェ: : Fixed original navigator icon from cache. - Nagato
+• Serenity Plaza Mini-Bots Halloween Spooktacular: Fixed original navigator icon from cache. - Nagato
+• Siren Lounge: Fixed original navigator icon from cache. - Nagato
+• Sodium 2 Project Velocity: Fixed original navigator icon from cache. - Nagato
+• Tekken 6 - Mishima Zaibatsu Recreation Floor: Fixed original navigator icon from cache. - Nagato
+• The Midway Darla's Den Personal Space: Fixed original navigator icon from cache. - Nagato
+• The Spunland Cottage: Fixed original navigator icon from cache. - Nagato
+• Western Frontier: Fixed original navigator icon from cache. - Nagato
+• Winter Holiday Hullaballo 2011: Fixed original navigator icon from cache. - Nagato
+• Winter Vacation Villa Personal Space: Fixed to be in the apartments/private spaces section. & Fixed original navigator icon from cache. - Nagato
+• Winter Wonderland 2009: Fixed original navigator icon from cache. - Nagato
+• WipEout Museum: Fixed original navigator icon from cache. - Nagato
+• Xi Maximum Tilt: Fixed original navigator icon from cache. - Nagato
+• YeckLand: Fixed original navigator icon from cache. - Nagato
+• x7 Entrance: Fixed original navigator icon from cache. - Nagato
+• 銀玉人情商店街 (IREM Market): Added a new custom navigator icon. - Nagato
+
+:womans_clothes::shirt: Clothing: 
+
+•  189 Unique Female Hairstyles - Jinx (For rebuilding/Packing/Q.A)
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+Incompatible due to using the same LOD files:
+
+• Raver - Ponytail
+• Formal Affair
+
+Credit to Jinx.
+
+------------------------------------------------------------------------------------------------------------------------
+<!--Debug Patch Notes 6/20/2020 v1.17:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+
+:movie_camera: Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Anime Apartment: Fixed to be in the apartments/private spaces section. - Nagato
+
+:womans_clothes::shirt: Clothing: 
+
+• Adidas SuperStar White & Blue Sneakers (Male) - Nagato
+• Animated Hi-Tops - Ruby (Male) - Nagato
+• Anime - Athletic High School Boy (Male) - Jinx/Junez
+• Anime - Brawler High School Boy (Male) - Jinx/Junez
+• Anime - Class President High School Girl (Female) - Jinx/Junez
+• Anime - Genius High School Boy (Male) - Jinx/Junez
+• Anime Demon Hunter - Hearth (Male) - Jinx/Junez
+• Anime Demon Hunter - Vamp (Male) - Jinx/Junez
+• Anime Demon Hunter - Verse (Male) - Jinx/Junez
+• Anime Martial Artist - Hero (Male) - Jinx/Junez
+• Anime Martial Artist - Wanderer (Male) - Jinx/Junez
+• Burgundy & Black Track Pants (Male) - Nagato
+• Modern Logo Hooded Sweatshirt 2000AD (Male) - Nagato
+• NBA Celtics Jersey (Male) - Nagato
+• White Polo Shirt (Male) - Nagato
+
+
+Credits: Jinx, Junez, Nagato. *This Includes Rebuiding/Renaming/Q.A.*
+
+:person_running:  Locomotions/Companions: 
+
+Credit goes to Calibre for rebuilding all of these LMO's & Companions for the Destination Home community.
+
+• DRIVECLUB™ - Burning Rubber Companion
+• GST - Floor Poses - Pack 2 (Male)
+• GST - The Nightclub_ Booty Shake Dance Pack (Male)
+• LMO - Aseman the White Tiger
+• LMO - Demon Horse - Keshi
+• Locomotion - Ninja Run
+• Mark IV Interceptor Bot Companion (Reus Violet)
+• obb Companion
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+None for this Patch.
+
+==================
+
+How to install this patch:
+
+1. Download the patch.
+2. Use either WinRAR, or 7zip to extract the content's to your PC.
+3. Take the *USRDIR* folder and drag it to the root of your build format, and make sure to overwrite any data.
+
+------------------------------------------------------------------------------------------------------------------------
+<!--Debug Patch Notes 6/12/2020 v1.16:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+
+:911pxPSHome_Icon: Destination Home 1.86 Patch v1.16:
+
+Patch v1.16 is now out! Here is the change logs/debug patch notes 6/19/2020.
+
+=============================================
+
+:house: Added 1 New Space + With MetaData:
+
+• The Paradise Springs Casino Lounge - Nagato
+
+:movie_camera: Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Cutthroats Battle for Black Powder Cove: Atmosphere Fix. - Nagato
+• Harry Potter Pottermore Diagon Alley: Atmosphere Fix. - Nagato
+• Serenity Plaza Mini-Bots Halloween Spooktacular: Atmosphere Fix. - Nagato
+• Sodium One Apartment: Fixed original name in .SDC + Thumbnail. - Nagato
+• SuperStar Jetsetter Private Plane: Atmosphere Fix. - Nagato
+• Theatre: Atmosphere Fix. - Nagato
+• The Paradise Springs Casino Poker Lounge: Fixed name in LocalSceneList.XML - Nagato
+• Tropical Escape SCEA Personal Space: Atmosphere Fix. - Nagato
+• Western Frontier: Atmosphere Fix. - Nagato
+
+:womans_clothes::shirt: Clothing:
+
+• Alisa Rocket Punch Tekken Costume (Female)
+• Hit Girl Costume (Female)
+• Silent Hill 2 Bubble Head Nurse (Female)
+• Xiaoyu Costume Tekken Costume (Female)
+• ブラック★ロックシューター　なりきりビキニ (Female)
+• 初音ミク 応援ネギ（女性用）(Female)
+• 干支シリーズ第二弾　卯グローブ（ピンク・女性用）Second series of zodiac series U glove (pink, for women)
+• 干支シリーズ第二弾　卯グローブ（ホワイト・女性用） Second series of zodiac series Uglove (white, for women)
+• 干支シリーズ第二弾　卯グローブ（ホワイト・男性用） Second series of zodiac series Uglove (white, for men)
+• 干支シリーズ第二弾　卯スーツ（グレー・男性用） Second series of zodiac series Uba Suit (gray, for men)
+• 干支シリーズ第二弾　卯フード（グレー・男性用） Second series of zodiac series  Ud Hood (gray, for men)
+• 義理チョコ Chocolate in mouth (Male)
+
+Credits: Jinx, Junez, Nagato. *This Includes Rebuiding/Renaming/Q.A.*
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+• Alisa Rocket Punch Tekken Costume has slight texture issues.
+• Xiaoyu Costume Tekken Costume has slight texture issues.
+
+------------------------------------------------------------------------------------------------------------------------
+<!--Debug Patch Notes 6/12/2020 v1.15:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+
+:page_facing_up: Scripts/Commands:
+
+• As some of you may know the save-function for the 1.86 Client is "broken" however, with the use of a debug command you can create your own "outfit savestates" thus you can load your custom outfits on the fly.
+
+1. By installing this patch first then, typing this command *saveAvatar typethenameofyouravatarsoutfithere* will save your avatar to this folder location *USRDIR/Avatars/WhateverYouNamedYourOutfit.wtr*
+
+2. To load your newly saved avatar you can utilize this command*loadAvatar
+typethenameofyouravatarsoutfithere* then you should be able to load your outfit.
+
+For more information on how to utilize this command please refer to the 
+"How To Manually Save Outfits On 1.86.mp4" video for more information.
+
+Special thanks to @Kobun42 for this find.
+
+:house: Added 1 New Space + With MetaData:
+
+• SCEA Central Plaza Winter/Christmas Edition 2010.
+
+:movie_camera: Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• UFC Octagon Personal Apartment: Atmosphere Fix. - Nagato
+
+:womans_clothes::shirt: Clothing:
+
+• Added 861 Clothing Items For Male:
+
+- This includes Shirts, Hats, Hairs/Facial Hair, Accesories, Pants, Shoes/Sneakers.
+
+- For more information about what exact clothing has been added please refer to the "Male Clothing.TXT *NOTE this is a WIP, and needs to still be uploaded for the official list*
+
+Credits: Jinx, Junez, Nagato. *This includes Rebuiding/Renaming/Q.A.*
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+• In SCEA Central Plaza Winter/Christmas Edition 2010 space, the Jukebox may not work as the scripts wasn't manually program for this version.
+
+==================
+
+How to install this patch:
+
+1. Download the patch.
+2. Use either WinRAR, or 7zip to extract the content's to your PC.
+3. Take the *USRDIR* folder and drag it to the root of your build format, and make sure to overwrite any data.
+
+------------------------------------------------------------------------------------------------------------------------
+<!--Debug Patch Notes 6/12/2020 v1.14:
+  
+Patch Completed by Nagato & QA.
+
+
+======================================
+
+📄 Scripts/Commands:
+
+Credit: Nagato
+
+• Added the ability to enable Development Release Mode on PlayStation Home. By "emulating" dip switch commands that are only found on actual DECR unit's "DECR-1000A/J models we can enable some more debug features. 
+
+• Debug units "DECHA00A" or DEX PS3's can now utilze DECR functions without the use of having "dipswitches".
+
+This includes the following features: 
+
+➤ Switches to development mode.
+➤P ress the right analogue stick to enter a free flight mode. When in flight mode, press R1 to raise the camera vertically and R2 to lower it. The left analogue stick strafes the camera in the XZ plane. The right analogue stick controls the orientation of the camera. *This means you can enable debugcam by just hitting R3, like back on 89/97 builds.*
+
+⚠️ NOTE: by turning (off) the dip switch commands will put you back into release mode. *Retail* As well if you happen to own a DECR you don't need to utilize any of these functions since it's already built in via hardware. As well if you want to revert back to "release mode" please use the hubstartup script that is found in a folder called "Original HubStartup"
+
+➤ Switches to release mode.
+➤ Press the right analogue stick to enter an `over-the-shoulder' third person camera mode.
+➤ Press SELECT to access the Debug Console
+
+:movie_camera: Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Acorn Meadows Park VEEMEE: Atmosophere Fix/Probe Fix. - Nagato
+• Aurora 1.9: Atmosophere Fix - Nagato
+• Bramblenook Farm: Atmosophere Fix/Probe Fix. - Nagato
+• Clearasil Kart Racing: Atmosophere Fix - Nagato
+• Desert Haven Clubhouse Tour: Atmosophere Fix - Nagato
+• GranZella Great Edo Of Nippon Monoke Bon Festival: Atmosophere Fix - Nagato
+• GranZella Great Edo Of Nippon: Atmosophere Fix - Nagato
+• GranZella Southern Island Hideaway Valentine Day 2013 Event: Atmosophere Fix - Nagato
+• No Man's Land Tutorial Level 1 Subway: Atmosophere Fix - Nagato
+• PlayStation The Studio Mini's Space: Atmosophere Fix - Nagato
+• SCEE Home Square (Version 2): Atmosophere Fix - Nagato
+• SCEJ Music Cafe ホームカフェ: Atmosophere Fix - Nagato
+
+:womans_clothes::shirt: Clothing:
+
+• Lars Hairstyle for (Male) - Nagato/Toykyle
+• Mechjet - Acer (Male) - Jinx
+• Mechjet -Vandal (Male) - Jinx
+• Mtn. Dew Hoodie (bundled with Promo Shirt 2) (Male)  - Junez
+• Nike Orange KD4's (Male) - Junez
+
+:person_running:  Locomotions/Companions: 
+
+Credit goes to Calibre for rebuilding all of these LMO's & Companions for the Destination Home community.
+
+• Chinese Dragon Companion
+• EVO Arcade Joystick Companion
+• Fainting Goat Companion
+• ibb Companion
+• LMO - Beast Mounts - Sky Serpent (Purple)
+• LMO - MIB™ Boris Bike
+• Locomotion - Inferno Hero
+• Santa's Sleigh
+• SuperStar - Mini Giraffe
+
+------------------------------------------------------------------------------------------------------------------------
+<!--Debug Patch Notes 6/12/2020 v1.13:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+:house: Added 1 New Space + With MetaData:
+
+• SCEJ ホームスクエア Daytime
+
+:movie_camera: Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• SCEE Home Square Christmas Edition (Version 2): Atmosophere Fix. - Dedsec
+• SCEE Home Square Halloween Edition (Version 2): Atmosophere Fix. - Dedsec
+• SCEJ ホームスクエア Daytime: Added original/custom content that is themed around Japanese culture. This includes original Japanese PlayStation Home's posters/adverts that was once utlized in the Home Square. - Nagato
+• SCEJ ホームスクエア Winter Night Edition: Added original/custom content that is themed around Japanese culture. This includes original Japanese PlayStation Home's posters/adverts/videos that was once utlized in the Home Square. - Nagato
+• X7 Vip Club: Added Original Music: Dedsec
+
+------------------------------------------------------------------------------------------------------------------------
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+• None for this patch.
+
+<!-- Debug Patch Notes 6/12/2020 v1.12:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+
+:womans_clothes::shirt: Clothing:
+
+• Adidas Firebird Black & White Female Track Pants - Nagato
+• Black & White NEW Adidas Track Pants (Female) - Nagato
+• Cargo Jacket - Black with White T-Shirt (Male) - Nagato
+• Diesel Jacket Jisckyan (Male) - Jinx/Nagato
+• Konami Code Animated T-shirt (Male) Nagato/Toykyle
+• Male Snowman Mask Re-Fix (Male) - Junez/Nagato
+• SingStar® Disco Guy Character Costume (Male) - Junez
+• Skelly Kelly Hairgrip Hairstyle (Female)  - Junez
+• USA Feva Arena Jacket (Male) - Nagato
+• White Puffy Jacket Male - Nagato
+• WipEout 2197 Long Sleeve T-Shirt Bar Code Edition (Male) - Nagato
+• WipEout Official FX350 T-shirt (Male) -  Nagato
+• ちょこんとカボチャ（男性）Chokon and pumpkin (Male) - Junez
+• ケルビム マスク Female Liar Mask - Junez
+• ケルビム マスク Male Liar Mask - Junez
+• ジョージア スーツ・ジャケット Georgia Coca-Cola Suit Japa
+
+:person_running:  Locomotions/Companions: 
+
+Credit goes to Calibre for rebuilding all of these LMO's & Companions for the Destination Home community.
+
+• Baby Doberman
+• Ghost Companion
+• Gnarly Zombie Deck - Backside Nollie Shuvit 360
+• Kubwa the Silverback Gorilla
+• Locomotion - Skateboard (Radical)
+• PartyMachine 2013 Companion
+• Rottweiler
+• Sammy the Skunk
+• Shimmer the Magenta Fairy
+• Storm the Stitchkin Pegasus
+• White Husky
+
+:space_invader: Mini-Games & Interactive Items:
+
+• FarCry Mini-Games & Interactive Items Pack: - Credits to Juanma
+
+- Mancala Minigame
+- Newspaper clipping
+- FarCry Windmill
+- FarCry birds
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+• With the Mancala mini-game for Far Cry, it requires 2 players. 
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+<!-- Debug Patch Notes 6/12/2020 v1.11:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+
+🎥 Screenlinks/Image Fixes/Audio Fixes/Atmosphere Fixes/General Scene Fixes:
+
+• Cutteridge Estate Personal Space: Atmosophere Fix. - Dedsec
+• Cogs Sky Platform: Atmosophere Fix. - Dedsec
+• Sodium 2 Project Velocity: Atmosophere Fix. - Dedsec
+• Sodium Hub 1.3.2.16.BETA1: Atmosophere Fix. - Dedsec
+• SCEA Central Plaza Dead Island Edition: Atmosophere Fix. - Dedsec
+• SCEE East Mall: Atmosophere Fix. - Dedsec
+• SCEE West Mall: Atmosophere Fix. - Dedsec
+• F.U.B.A.R. Apartment: Atmosophere Fix. - Dedsec
+• IREM Market SCEJ: Atmosophere Fix. - Dedsec
+• PlayStation Network Mini's Lounge: Atmosophere Fix. - Dedsec
+• The Dream Yacht Arctic Voyage: Atmosophere Fix. - Dedsec
+• Loco Roco Mui Mui Island: Atmosophere Fix. - Dedsec
+• Tuscan Villa Apartment: Atmosophere Fix. - Dedsec
+• Summer House: Atmosophere Fix. - Dedsec
+
+------------------------------------------------------------------------------------------------------------------------
+<!-- Debug Patch Notes 6/9/2020 v1.10:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+🏘️ Spaces: 
+
+• SingStar Original 2009 HDK 1.1.0:
+
+➤ I've delisted the newer version of SingStar due to the Jukebox not being compatible with the newer version of the space. Before installing this patch please refer to the "READ ME BEFORE INSTALLING PATCH For SingStar.txt" to learn on how to install the correct version of SingStar with any issues.
+
+🏃  Locomotions/Companions: 
+
+Added 12 Locomotion Item's both for Male & Female + With Thumbnail. Credit goes to Calibre for all LMO based items.
+
+• Animation Pack - Taisho-era Student Movement
+• DOMO
+• Fairy Wings - Glitter Cloud (Animated)
+• Fairy Wings - Glitter Cloud (Animated)
+• GST - Attitude Dance Pack (Female)
+• Holiday JuggerBot
+• LMO-Devil Wing (Flying mode)
+• Locomotion - Inline Skates (Red)
+• Pet Tiger Companion
+• Raven Companion
+
+:space_invader: Mini-Games/Interactive Items:
+
+• SingStar Jukebox MiniGame has now been restored, *note please read the "Read Me Before Installing Patch for SingStar" before proceeding this patch since there is additonal steps you'll need to do to ensure that the Jukebox is working.* 
+
+Here is the featured music list that has been implemented in the jukebox:
+
+➤ atomsoak ft. cerol - Private Eye
+➤ Daft Punk - One More Time
+➤ LIL UZI VERT - BUST ME
+➤ Lil Wayne - Multiple Flows with Lil Uzi Vert (Audio)
+➤ MGMT - Electric Feel (Justice Remix)
+➤ Modjo - Lady
+➤ Mr Vegas - Pull Up
+➤ Nagato's Revenge - JET XET RADIO prod. Back Alley Cat
+➤ Nightcrawlers - Push The Feeling On (The Dub of Doom)
+➤ PlayStation Home Music - One More Minute
+➤ PlayStation Home - Chain Swing
+➤ PlayStation Home - Original Theme
+➤ PlayStation Home: Music - Taking Over (We're in Control)
+➤ SingStar - New Soundtrack Version 2
+➤ XXXTENTACION - White Girl
+
+Credits:
+
+- Juanma: For rebuilding the full minigame + adding custom lua scripts to add music/video's locally. + Doing the base writeup for the custom music guide.
+
+- Nagato: For adding custom music/coverart/videos. This includes original SingStar music & also custom soundtracks. + Base writeup. & Q/A-ing.
+
+• SingStar Dance Floor Interactive Item: This enables the light's at the bottom of the dance floor + restores the original music in SingStar.
+
+- Nagato: For rebuilding the SingStar Dance Floor.
+- Calibre: For helping me map with original UUID.
+
+• Listen@Home Music/Video Player Restored *Beta/WIP*: The Listen@Home Music/Video player has a custom made script to load the same playlist that is connected to the SingStar title. So if you make any changes to the SingStar playlist config it will effect also the music in the Central Plaza.
+
+- Juanma: For rebuilding/adding custom scripts for this to run.
+- Nagato: QA Testing on PS3
+
+• Uncharted 2 Mask Mayhem Minigame 
+
+- Juanma
+
+• Uncharted 2 Scene Dynamic Effects: *Note this will cause some bugs via on RPCS3.*
+
+- Juanma
+
+• Uncharted 2 Leaderboard
+
+- Juanma
+
+• Xi Hexathlon Pack: (Hexopolis MiniGame, and 2 entrances has been mapped which is "Enter Adventure Lobby" & "Enter Maxiumum-Tilt Lobby" Note
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+• For Central Plaza's original Chain Swing video I've had to disable it due to memory issues for the PS3.
+
+• Uncharted 2 Scene Dynamic Effects: *Note this will cause some bugs via on RPCS3.*
+
+• For the 2 entraces for the Xi Hexathlon space there just there as place holders. They won't redirect you to another space.
+
+------------------------------------------------------------------------------------------------------------------------
+<!-- Debug Patch Notes 6/8/2020 v1.09:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+
+🎥 Screenlinks/Image Fixes/Audio Fixes/General Scene Fixes:
+
+• Hudson Gate: The sky has now been fixed! & Original Hudson Gate promotional video has been restored. - Nagato/Dedsec/Toykyle.
+
+• Hudson Bomber Dome: Added original/custom content that is themed around the "Bomberman" franchise this includes custom video's and images. - Nagato/Toykyle
+
+• Konami Penthouse: Konami Penthouse Music has been restored! I've personally utilized the official audio soundtracks and compiled the original 10 Dance Dance Revolution Songs that use to play in the Konami Penthouse into one mix. - Nagato/Dedsec
+
+- A Geisha's Dream (Ruffage Remix) by NAOKI feat. SMiLE.dk
+- Dreaming can make a wish come true jun & NRG Factory feat. Anna Kaelin
+- IN THE ZONE U1 (NPD3 style) & KIDD KAZMEO
+- Lets Get Away NAOKI feat. Brenda Burch
+- One Sided Love. D-crew with Melissa Petty
+- Private Eye atomsoak ft. cerol
+- Rescue Me NAOKI feat. Fracus
+- Seasons by TOMOSUKE feat. Crystal Palos
+- Wicked_Plastik nc ft. Electric Touch
+- 華爛漫 -Flowers TËЯRA
+
+*As an added bonus! I will include all of the original audio files that came from the official servers in this client, it will be under a folder called KONAMI Penthouse BGM.*
+
+• SCEA Sports Walk: Added custom content that is themed around "sports" this includes custom video's and images.
+
+:womans_clothes::shirt: Clothing:
+
+• Dance Dance Revolution Animated Long Sleeve Shirt (Male) - Nagato
+
+🏃  Locomotions/Companions: 
+
+Added 12 Locomotion Item's both for Male & Female + With Thumbnail. Credit goes to Calibre for all LMO based items.
+
+• Atticus Amp Companion
+• Baby Chicken Companion
+• Descended Snowy Owl
+• German Shepherd
+• Groundhog Companion
+• Ice skating
+• Locomotion - Booster Shoes (Blue)
+• Locomotion - Ice Hero
+• Stitchkins Raisin Monkey
+• Thunderflux MiniBot Companion
+• Vane the Cockatrice
+• Wulfred the Wolf
+
+:space_invader: Mini-Games/Interactive Items:
+
+• Batman Arkham Asylum Batcave Outpost: All of the Interactive Item has been restored. - Nagato/Toykyle
+
+
+------------------------------------------------------------------------------------------------------------------------
+<!-- Debug Patch Notes 6/6/2020 v1.08:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+
+🎥 Screenlinks/Image Fixes/Audio Fixes:
+
+• Buzz HQ Home Lobby: Added original video content themed around the original Buzz game/franchise. + With posters. - Nagato
+• Gamescom 2009 Event: Added video content *Gamescom PlayStation Home 2009 Showcase video* + With real life pictures from the Gamescom 2009 event. - Nagato
+• PlayStation The Studio Mini's Indie Space: Added video content *PlayStation Vita Indie Dev Showcase* + I've added famous indie games posters from the PS3/VITA/PS4 catalog. - Nagato
+
+🏃  Locomotions: 
+
+Added 24 Locomotion Item's both for Male & Female + With Thumbnail. Credit goes to Calibre for all LMO based items.
+
+• AXE Excite Mini Angel 
+• Animal Avatars - Giant Tarantula 
+• Carla Companion 
+• Gabe And Bael 
+• Gothic Skull Deck - Nollie Pop Shuvit 
+• Graffiti Deck - Nollie Double Kickflip Grab 
+• LMO - nGear - Sport (Green) 
+• LMO – Lute 
+• LMO-Fox Specter Tail (Silver) 
+• Lilith - Brimstone Dancer Companion 
+• LittleBigPlanet™ Karting Homing Rocket Companion Item 
+• Locomotion - Succubus Wings & Tail (White Wings) 
+• Locomotion - Zen Flight
+• Miniature Robot Companion 
+• MyGym - Tumbling Locomotion Animation 
+• Mythical Creature Avatars - Manticore 
+• Orange Tabby Boy Kitten 
+• Park Penny Farthing 
+• Shark Chase 
+• Singe 
+• Slick Deck - Backside 360 No Comply 
+• Snoop Puppy 
+• Thrash Skull Deck - Kickflip 
+• UFO 
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+• In the Gamescom 2009 Event Space has a memory issue when loading images/video's. *could be a PS3 issue*
+• In the PlayStation The Studio Mini's Indie Space, I had to leave 2 poster boards blank due to a memory issue.
+------------------------------------------------------------------------------------------------------------------------
+<!-- Debug Patch Notes 6/5/2020 v1.07:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+
+🎥 Screenlinks/Image Fixes:
+
+• The Ford Showroom: Added Jay Leno's Ford Focus RS Video. - Nagato
+• Ratchet & Clank Time Travelers: Ratchet & Clank Collection Trailer - Nagato
+• PlayStation Move BackStage Pass Event: Added PS Move PlayStation Trailer - Nagato
+• Lockwood Dream Central: Added original Lockwood Advertisement Posters + Video. - Nagato
+• E3 2012 Theatre: Added PlayStation Vita 2012 Showcase Video. - Nagato
+• Hot Shots Golf Lounge: Added Video Content + Original Hot Shot's Golf Poster. - Nagato
+• The GodFather 2: Added the original lounge music, + Godfather 2 PS3 Trailer. - Nagato
+• GamesCom 2012 Space: Added an original Gamescom Trailer. - Nagato
+• S.I.N.'s Secret Base from Street Fighter IV: Added Street Fighter Review Footage, + Posters.
+
+
+👚👕 Clothing:
+
+• 2008 PlayStation Home Origin Male Hoodie (Orange) - Nagato
+• スペシャル謹賀新年ＴシャツD(男性) Male 2009 Japanese T-Shirt - Nagato
+• GranZella Male School Shirt - Nagato/Jinx *ty for mapping*
+• Black Adidas Fitte Cap - Nagato
+
+👾 Mini-Games:
+
+• Groovitron Testing MiniGame (Ratchet & Clank Time Traverlers Space) - Juanma/Nagato
+• Resident Evil 5 BSAA Training Mission - Nagato
+• Ratchet & Clank Interactive Ammo Boxes MiniGame - Juanma.
+------------------------------------------------------------------------------------------------------------------------
+<!-- Debug Patch Notes 6/4/2020 v1.06:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+
+ 🏘️ Spaces: 
+
+• Sodium Hub 1.3.2.13.BETA.1 *This scene will contain the Salt Shooter/Scorpion Stomp Mini Game.*
+
+👚👕 Clothing:
+
+• トロ　頭（男性用) Male TORO Head Junez
+
+🎥 Screenlinks/Image Fixes:
+
+• 照英王国 Shoei Kingdom (JP): Added original/custom video's & pictures to this scene. - Nagato
+• Namco Arcade Center: Added the Namco Mueseum Vol 3 PS1 Game Intro. - Nagato
+
+
+👾 Mini-Games:
+
+• Sodium Hub Salt Shooter Demo
+
+🏃  Locomotions: 
+
+Added 19 Locomotion Item's both for Male & Female + With Thumbnail. Credit goes to Calibre for all LMO based items.
+
+• AVAN - Bright Lights Pop Dances Music Icon  (Female)
+• AVAN - Burlesque Dance Pack (for Male)
+• AVAN - Pop Dances Cult Icons Pack (Female)
+• AVAN - Pop Dances_ Cult Icons Pack (Male)
+• Anime Dance Pack
+• Attitude Dance Pack (Male)
+• Cowboy Dance Moves
+• GST - Street Dance
+• K-Pop Dance Animation Pack
+• Kung Fu Dance Pack (Male)
+• Pop and Lock Dance Pack
+• Pulp Star dance moves
+• Sexy Dance Pack (Male)
+• The Nightclub Booty Shake Dance Pack (Female)
+• UK Dance Pack (Female)
+• nDreams Dance Pack - Fun, Fun, Fun! (Male)
+• nDreams Dance Pack - Retro (Male)
+• nDreams Dance Pack - World Dances Pack 1 (Female)
+• nDreams Dance Pack - World Dances Pack 2 (Male)
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+• Sodium Salt Shooter Demo is in a WIP state. The mini-game itself on RPCS3 might have some FPS/Graphical issues. As well on the PS3, the enemies don't seem to spawn in correctly or fight back. Plus the is missing some key textures. Consider that this game is a *early restoration point* - Credit goes to Juanma.
+
+==================
+
+------------------------------------------------------------------------------------------------------------------------
+<!-- Debug Patch Notes 6/1/2020 v1.05:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+
+ 🏘️ Spaces: 
+
+• Action Forces Sample DEV Scene
+• Arcade Tutorial DEV Scene
+• Baked Lighting Sample DEV Scene
+• Blend Shader Sample DEV Scene
+• Cloth Sample DEV Scene
+• Collision User ID Sample DEV Scene
+• Day Night Cycle Sample DEV Scene
+• Dynamic Lighting Sample DEV Scene
+• Engine Settings Sample DEV Scene
+• Entity Animation Blending DEV Scene
+• FPS Sample DEV Scene
+• Gymnasium DEV Scene
+• HTS Aeronautilus DEV Scene
+• HTS Electrical Space DEV Scene
+• Interactive Slideshow Sample DEV Scene
+• LOD Sample DEV Scene
+• Mini Game Tutorial DEV Scene
+• Object Instance Example DEV Scene
+• Repertoire Sample DEV Scene
+• Screens Example DEV Scene
+• Scripted Scene Tutorial DEV Scene
+• Scripted Sky DEV Scene
+• Simple Animation Example DEV Scene
+• Video Recorder Sample DEV Scene
+• Water Example 1.3.6 DEV Scene
+
+Credit goes to Pongo86 For All DEV Scenes.
+
+🎥 Screenlinks/Image Fixes:
+
+• シアター (SCEJ Japan Cinema Auditorium): Added the original Japanese Beta Home 2008 Promotional Video. - Nagato/vFxMz
+
+👚👕 Clothing:
+
+• Adidas Yellow ST Tee Graphic Shirt (Male) - Nagato
+• Atari T-shirt (Male) - Nagato
+• Bah Humbug Hat (Male) - Nagato
+• Complete BLACK ROCK SHOOTER Female Outfit (Credit to Junez/Jinx.)
+• Daman Allburn Bat Tats Hawaiian Shirt (Male) - Nagato
+• Konami Code Animated Pants And Boots (Male) - Nagato
+• MEGA MAN T-shirt (Male) - Nagato
+• Old School Track Suit Pants (Male) - Nagato
+• PlayStation®Vita Trainers (Male) - Nagato
+• Red Bull Air Race - Jacket (Male) - Nagato
+• Red Lamborghini T-Shirt (Male - Nagato
+• SingStar Face Mask Dizzee Rascal (Male) - Nagato
+• nFasion nDreams Harajuku Cap - Nagato/Jinx
+• Ugly Christmas Sweater - Rudolph (Male) - Nagato
+• Male SingStar® Face Mask - Dizzee Rascal - Nagato
+• Gothic Vest *Texture Fix* - Jinx.
+• シェリル・ノームの髪型を模した、なりきり衣装です。nn ©2007 ビックウエスト／マクロスF製作委員 MACROSS Sherlyn Nome Hair - Nagato
+
+👾 Mini-Games:
+
+• Blackbeard's Challenge MiniGame - For Cutthroats: Battle For Black Powder Cover - Juanma (Minigame) Nagato (Texture fixes)
+• EA Fight Club DJ Minigame - Juanma
+• Infamous Dock Minigame Reaper Shock *works* Note: inFAMOUS Blog/Phone Minigame are Defunct.
+• SHAPE BLAST Gamescom 2009 SHAPE Minigame - Juanma
+
+🏃  Locomotions: 
+
+Added 15 Locomotion Item's both for Male & Female + With Thumbnail Fixes for previous added LMO's/Companions. - Credit goes to Calibre for all LMO based items.
+
+• LMO - Aurora Blimp
+• LMO - Bladestream Corp V1000B
+• LMO - Cape of Flight
+• LMO - Fighter Plane (The Yellow Tiger)
+• LMO - Fitness Pole
+• LMO - Motorbike - Anubis
+• LMO - Motorbike - The Temptress
+• LMO - Mustang - Palomino
+• LMO - Ninjutsu Warrior
+• LMO - Retro Rollerskates - Red Lightning
+• LMO - Saddled Pinto Pony - Skewbald
+• LMO - Spumpkin Broom Broom
+• LMO - The Monocle Grey
+• LMO- Xi Continuum Code Flight
+• LMO- Xi Continuum Hoverboard
+
+🛏️ Furniture:
+
+• 初音ミク ベストアルバム　 「～impacts～」(レプリカ) Hatsune Miku Best Album "~impacts~" (replica) - Nagato/Jinx
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+• inFAMOUS Blog/Phone Minigame (doesnt work, makes request to server) However, I left in the client just for nostalgic purposes.
+
+• inFAMOUS Reaper Shock minigame has some grahpical issues for the RPCS3 client.
+
+==================
+
+------------------------------------------------------------------------------------------------------------------------
+<!-- Debug Patch Notes 6/1/2020 v1.04:
+  
+Patch Completed by Nagato & QA.
+
+======================================
+
+ Spaces:
+
+• 🏘️ Audi Vertical Run (With original metadata) + With screenlink Images - Credit goes to vFxMz for the screenlink fixes.
+
+• Added Video/Image content to these space:
+
+- Audi Apartment E-Tron 2009
+- Burn Zombie Burn
+-  PlayStation Mini Space
+-  PlayStation Vita Lounge
+-  Red Bull Air Race
+
+★ Clothing:
+
+• Namco Female Clothing Pack - Credit to Jinx.
+• 魅杏 なりきりウィッグ（女性用) Enchanting Narikiri Wig - Credit to Junez
+• Old School Tracksuit Top Black & Red Male - Nagato
+• Toronto Raptors NBA Jersey - Nagato/Jinx
+• Phoenix Suns NBA Jersey - Nagato/Jinx
+• Cleveland Cavaliers NBA Jersey - Nagato/Jinx
+• New York Knicks NBA Jersey - Nagato/Jinx
+• Willow HairStyle Female  - Nagato/Jinx
+• Portland Trail Blazers NBA Jersey - Nagato/Jinx
+• Alanta Hawks NBA Jersey - Nagato/Jinx
+• 意外と使えるライトグレーのサルエルパンツ Japanese Spring Shorts 2010 Male - Nagato
+ウォークマン® NWD-W202 ブラック（男性用） W Series WalkmanR NWD-W202 Male - Nagato
+• VAIO Type P Jeans Female -  Jinx
+• Alternate Nail Varnish Female -  Jinx
+• Adam The Android
+ 
+👾 Mini-Games:
+
+• Echochrome MiniGame Bowling Alley.  - Juanma
+• Ice Breaker MiniGame Bowling Alley - Juanma
+• Burn Zombie Burn - The Maze Mini-Game - Juanma
+• Gravity Crush Maza MiniGame - Juanma
+• Audi V-Run MiniGame + With Included Fix For RPCS3 Users - Pongo86/Nagato
+
+🏃  Locomotions: 
+
+Added 9 Locomotion Item's both for Male & Female. - Credit goes to Calibre
+
+• Bon Festival Dance
+• LMO - Music Unlimited Hoverboard
+• LittleBigPlanet™ Karting Sardine Kart Locomotion Item
+• Locomotion - Magic Cloak (Red)
+• Locomotion - Skateboard (Graffiti)
+• Turn Into Big White Tiger LMO
+• Turn into Gazille LMO
+• Unicycle LMO
+• nDreams Dance Pack - Reward
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+• Note when loading into the Audi Vertical Run space there might be a 30 second delay when trying to load up to the actual game. Don't worry it will take some time to launch however, the game does work. As well there might be some freezing while launching into the scene itself, I usually just wait it out until I become unfrozen. For more information about this bug, please refer to the video in the root of the patch folder!
+
+------------------------------------------------------------------------------------------------------------------------
+<!-- Debug Patch Notes 6/1/2020 v1.03:
+  
+Patch Completed by Nagato & QA.
+Credit goes to Jinx for her 500 Clothing Item Male/Female Pack. *Seriously thank you*
+
+======================================
+
+➤ Added 1 New Space + With MetaData:
+
+• EA Sports Racing Complex First Floor.
+
+★ Clothing Update: 
+
+👯 Added 500 Unique Male Clothing Items + With Metadata. This includes, T-shirts, Hair, Accessorites, Outfits, Shoes/Sneakers, Jewellery, Pants & more! For more infomation about what exact items that has been added in this patch refer to the TESTINVENTORY.XML for the official names. Or alternatively, you can look in the root folder of this patch and check out the "JinxClothingShowcase" Pictures & Video.
+
+👯 Added 500 Unique Female Clothing Items + With Metadata. This includes, T-shirts, Hair, Accessorites, Outfits, Shoes/Sneakers, Jewellery, Pants & more! For more infomation about what exact items that has been added in this patch refer to the TESTINVENTORY.XML for the official names. Or alternatively, you can look in the root folder of this patch and check out the "JinxClothingShowcase" Pictures & Video.
+
+👕11 New Male Clothing Items: 
+
+Here is some more addinationally clothing added by myself. 
+
+• (Jランカ・リー　親衛隊はちまき（男性用) Ranka Lee Guards Hachimaki (Male) - Junez for finding
+• Adidas Windbreaker SPO Sweatshirt HD Tech
+• Casual Sports Jacket Enjoy Football (MEX・Male)
+• Diesel Kaprix Service Black & White Male Cardigan
+• Dig Dug™ T-Shirt
+• Drew Brees Breast Cancer Awareness Jersey
+• Element - Harvard Hoodie - Royal
+• Namco Flag Cap
+• Namco Museum™ Black TrackSuit
+• Namco Museum™ Shorts
+• PlayStation Plus Gold Halo Logo Male
+•Deep V-neck Classic Tee - Navy LockWood
+
+👾 Mini-Games:
+
+• Saucer Pop Central Plaza Mini-Game! - Credit Juanma
+• Sodium Scorpio's Mini-Game! - Credit Juanma
+• EA Sports Complex Racing Mini-Game - Credit Juanma
+• Resistance 2 Station Four Barrels Of Fury - Credit Juanma
+• Siren Blood Curse Mini-Game - Credit Juanma
+
+==================
+
+🐞 Known Issue's/Bugs:
+
+• Note for some mini-games might have graphical issues in RPCS3 *Siren*
+
+-------------------------------------------------------------------------------------------------------------------------- 
+<!-- Debug Patch Notes 5/31/2020 v1.02:
+  
+Patch Completed by Nagato.
+Credit goes to Calibre for rebuilding LMO's/Icons.
+
+======================================
+
+🐞 Known Issue's/Bugs:
+
+照英王国 Shoei Kingdom (JP): Note this space has a collision bug.
+
+For this simple fix you'll need a keyboard.
+
+To walk through the rest of the scene hit "SELECT" and you want to enable "***DEV DEBUG*** 
+
+Once you enabled, DEV Debug you want to select the *Open Console* Option, and you should the command prompt tab.
+
+In the CMD prompt you want to first type this command *disableCharacterCollision 1* this will allow you to walk in the space and then you want to re-enable by utilzing this command *disableCharacterCollision 0* once you get past the door. For more information on how to do this please refer to the video that is in the root folder of this patch.
+
+----------------------------------
+
+Palace Of The Seven Winds: Note this space has a collision bug.
+
+For this space becareful while walking around, since this scene used a special object to enable *flight mode* originally the bottom of the map has an invisible floor. If you happen to fall off you can either reload the scene from the navigator. Or just use the command `teleport 1 1 1` 
+
+For more information about this bug and it's fix check out the video in the root of this patch.
+
+----------------------------------
+
+For the "Drop Science Gilet - Werk It Female Jacket" to utilize this item you can copy/paste this command "Person.Local.SetClothingComponent 07029742-01454F61-B2F2E605-52D46746"
+
+- For some reason this object isn't showing in the female's invetory however, utilizing this command works.
+
+=========================
+
+➤ Added 3 New Spaces + With MetaData:
+
+• PlayStation Home Mansion Garage Personal Space 
+• Palace of the Seven Winds 
+• 照英王国 Shoei Kingdom (JP) 
+
+➤  Added 11 Clothing Items: 
+
+• NARISOKONAI IREM SHIRT なり譚Ｔシャツ（デニッシュ・男性）
+• Nike Australia Home Football Shirt 
+• Ai-kun Macross Frontier Squirrel (Male)
+• Chun Li Buns Female HairStyle Alternate
+• Drop Science Gilet - Werk It Jacket Female
+• Grey GranZella Hooded Cardigan (Male)
+• Drop Science-Hi-Tops - Grillin Sneakers (Female)
+• RockStar Logo T-Shirt Male
+• カリ・ユガ(男性用) Male Swords (Red/Blue) Peakvox Monster Swords (Japanese Item) Male - Credit to Tixx.
+• コルネのカツラ（女性） Legend of Hero NARISOKONAI IREM Pink Hair (Female) (Japanese Item)
+• キュートノルディックセット（ピンク） Cute Nordic Sweater (Female)
+
+➤ Added 14 Locomotion Item's both for Male & Female. + Fixed original icons for v.1.01 LMO's.
+
+• Drop Science Pose Pack (Male)
+• LMO - Beast Mounts - Big Cat (Orange)
+• LMO - Pegasus - White
+• LMO - Steampunk Horse (Black)
+• Magic Umbrella (Frill Pink)
+• Mini-Mech Companion
+• RC Rex Companion
+• Red Dragon SpeedWings
+• Robot Pet (Gold)
+• Robot Pet (Gold)
+• Sunrise RC Truck Companion
+• Sunrise RC Truck Companion
+• Thing in a Box Companion
+• Wise Sea Turtle Aqua Mount
+
+-------------------------------------------------------------------------------------------------------------------------- 
+<!-- Debug Patch Notes 5/30/2020 v1.01:
+  
+Patch Completed by Nagato & QA.
+Credit goes to Calibre for naming/rebuilding LMO's.
+Credit goes to Jinx for naming the Miku Outfit/Rebuilding.
+
+
+➤ Added 4 New Spaces With Meta-Data:
+
+• The Casino (Bingo Hall Paradise Room) 
+• Harry Potter: Pottermore The Great Hall
+• SCEE Cinema Auditorium
+• Party at Jess's Apartment
+
+➤ Added the Full Hatsune Miku Outfit for Female.
+
+➤ Added 57 Locomotion Item's both for Male & Female.
+
+• 2 Sword Style - Fire
+• AVAN - Drop Science Breakdancing Animation Pack (Female)
+• AVAN - Party Dance Pack (for Male)
+• AVAN - Pop Dances Cult Icons Pack (Female)
+• Acorn Meadows Gifter - A Special Something
+• Adult Tiger (Black)
+• Animal Avatars - Cat - Black
+• Anime Animation Pack
+• Arrogance moves
+• Baby Orange Tiger Companion
+• Big Wheelies BMX Bike Locomotion (Red)
+• Car LMO - nGear - Convertible (Scarlet)
+• Comedy moves
+• Dirt Bike LMO - Gold
+• Dr Pepper TEN Vending Machine LMO
+• Drop Science Breakdance Animation Pack
+• Dusty The Gold Dancer Companion
+• Fairy Wings - Blue
+• GST - Relaxed Poses Pack (Female)
+• GST - UK Dance Pack (Male)
+• GST - nDreams Dance Pack - Famous (Male)
+• GST - nDreams Gestures - Rude 2 (Male)
+• Giant Slim Jim LMO
+• Harajuku 'Poser' Locomotion
+• HedKandi Headphones LMO
+• Hula Girl Companion
+• Husky Siberiano Companion
+• Iguana Companion
+• Irish Jig Animation Pack
+• LMO - Brilliant Lightning SpeedWings
+• LMO - DIY Retro Rollerskates - Fuschia Fury
+• LMO - Flame Flight - Thallia
+• LMO - Master of Rock
+• LMO - Whimsy Tails - Buddy
+• LMO - nDreams Choppers - Original (Black and Red)
+• LittleBigPlanet™ Karting Cupcake Kart
+• Locomotion - Running Style Quintet
+• Locomotion - Small White Wings, Back, Near
+• Martial Arts Animation Pack 2
+• Moodies Moves
+• Nightclub Flow Dance Pack (Female)
+• Panda Companion
+• Park Mountain Bike with suspension
+• Pirate Monkey Companion
+• Power Fallen Angel Wings LMO
+• Run and Gun - Scout - Assault Rifle LMO
+• Saiyan Locomotion
+• Sexy Dance Pack (Female)
+• Shrink Potion LMO
+• Space Walk Locomotion Pack
+• Ted Bear Companion
+• Work Out Animation Pack
+• nDreams Dance Pack - Body Popping (Female)
+• ふわふわフラワー（パープル) (Purple Flower ToyLogic originally from Japan Home.)
+• LMO - Demon Horse - Etherea
+ 
+-------------------------------------------------------------------------------------------------------------------------- 
+<!-- Debug Patch Notes 5/29/2020 v1.00:
+  
+  
+  Patch Completed by Nagato.
+  
+  •Added 4 New Scenes with added metadata, & Icons. 
+
+- シアター (SCEJ Japan Cinema Auditorium)
+- SCEE Home Square Version 2 (Winter Edition)
+- SCEE Home Square Version 2 (Halloween Edition)
+- PlayStation The Studio Mini Space 
+  
+  
+-------------------------------------------------------------------------------------------------------------------------- 
+<!-- Debug Patch Notes 5/27/2020 v.04:
+  
+  
+  Patch Completed by Dedsec & QA by Nagato.
+  
+  • Added 3 New Scenes Audi Sled, SCEE Theatre, Red Bull Air Race World. With added metadata, and icons.
+  • Restored to default avatars for the end user to customize to whatever clothing they want.
+  • Checked all 219 scene's for any major bugs.
+  • Checked if all .SDC's and LOCALSCENELIST.XML ID's correspond.
+  • Added the official Fifa 2010 World Cup Video to Feva Arena.
+  • Added video's to Hed Kandi Space.
+  • Added Music/Video to David Guetta Pachi Event Space.
+  • Fixed the nightsky for The Midnight Glade.
+  • Fixed textures in multiple spaces. (Warhawk, Pier Park) 
+  • Added music to Konami Club Lumonsity. 
+  • Fix ModNation Racer's Posters.
+  • Added SCEA Central Plaza Video.
+  • Delisted Pier Park Winter Edition do to overwriting the original Pier Park.
+  • Delisted GranZella Southern Hideway do to overwriting the 2013 event version.
+  • Fixed spawn location for most scenes.  *For No Man's Land: Dry Dock users will need to use "teleport 10 10 10"
+  • Added video to Tekken 6 scene. *Forgot to add in old patch notes*
+  
+-------------------------------------------------------------------------------------------------------------------------- 
+<!-- Debug Patch Notes 5/25/2020 v.03:
+  
+   Patch Completed by Nagato.
+  
+  • Added New Scenes + With .SDC's 
+  
+-------------------------------------------------------------------------------------------------------------------------- 
+<!-- KNOWN ISSUES/BUGS v.03:
+ 
+
+  • 四季彩の部屋 Peakvox Seasonal Themed Room *Missing Object so the skybox can't change the *seasons/sky* Other then that the scene boots
+  • Western Frontier: Has an issue with spawn point *you can use teleport 10 10 10 to fix*
+  • Inferno Apartment: Has an ATMOS sky issue possibly LUA issue.
+  
+--------------------------------------------------------------------------------------------------------------------------    
+<!-- Debug Patch Notes 5/25/2020 v.02:
+  
+  Patch Completed by Nagato.
+  
+  • Added  New Scenes + With .SDC's
+  • Desert Haven Clubhouse Tour Fixed scene metadata (SDC) & information
+  • Note most of the scene's I added still have missing objects, just hit *triangle* to disable any requested objects.
+  
+--------------------------------------------------------------------------------------------------------------------------  
+<!-- KNOWN ISSUES/BUGS v.02: 
+  
+  • Hudson Dolphin Personal Space: Sky issue (Maybe Atmos/Lua Script issue) 
+  
+  
+<!-- ==================================================================================================================================================== -->
+<!-- Debug Patch Notes 5/24/2020: v.01
+  
+   Patch Completed by Nagato.
+  
+  • Added 17 New Scenes + With .SDC's
+  • Note most of the scene's I added still have missing objects, just hit *triangle* to disable any requested objects.
+  
+<!-- ==================================================================================================================================================== -->
+<!-- KNOWN ISSUES/BUGS v.01:
+
+  Patch Completed by Nagato.
+  
+  • For certain scenes certain models/building may not appear due to the scene requesting certain models as objects. *Diamond Beach Mansion*
+  • If you happen to get an error such as "Failed to create the scene object" hit triangle to disable any errors. 
+  
+<!-- ==================================================================================================================================================== -->
+<!-- SCENE'S With Bugs: This list will contain all of the scene's that has issues (atomos, models, don't load etc) 
+
+• Acorn Meadows Park 4th Of July Edition (Night) VEEMEE Sky Atmos Issue *Should be night*
+• Bowling Alley: *Bowling Alley/Pool Table isn't active* -Might need to use an older version*
+• Desert Haven Clubhouse Tour: Scene works fine the .SDC doesn't load.
+• Diamond Beach Mansion: *Models doesn't show*
+• Diamond Beach Yacht Club and Marina *Models doesn't show*
+• E3®2012: *Models doesn't show*
+• E3®2013: *Models doesn't show*
+• GDC Central Lobby: Work In Progress (Not Finished)
+• GranZella Hankagai Lounge Neon ga Shimiru Hankagai: *Models doesn't show*
+• Granzella Southern Island Hideaway Valentine Day 2013 Event: *In order to get this version running you'll need to delete the "Granzella Southern Island Hideaway" normal version from he LocalSceneList.xml list to get the special version to run. *The older version over-writes the new files*
+• Harry Potter Pottermore Hogwarts Express: *Models doesn't show*
+• Hudson Gate: Sky Atmos Issue
+• Lockwood Dream Central: Sky Atmos Issue
+• Lockwood HQ: *Models doesn't show*
+• PlayStation Network Mini's Lounge: Sky Atmos Issue
+• PlayStation Vita Lounge Scee: *Texture issue* But doesn't send any errors in ProDG TTY Logs.
+• SCEA Pier Park Christmas Edition: *Snow doeesn't show* Probably due to the origiinal Pier Park is overwriting scene premissions. + Missing Object for Ferris Wheel.
+• SCEE Home Square Version 2: Sky Atmos Issue
+• SCEE Shopping Mall West: Sky Atmos Issue
+• Serenity Plaza Mini-Bots Halloween Spooktacular: Sky Atmos Issue
+• Slap Happy Sam's Stage Show: *Models doesn't show*
+• Sodium 2 Project Velocity: *Models doesn't show*
+• Sodium Hub: Sky Atmos Issue
+• Summer House: Sky Atmos Issue
+• The Midnight Glade: Sky Atmos Issue *Should be night*
+• The Spunland Cottage *LUA Script issues?*
+• Tuscan Villa Apartment: Sky Atmos Issue
+• UFC Octagon Personal Apartment: Sky Atmos Issue
+• Warhawk Command Center: The full scene is not textured *Might need to re-do from scratch.*
+  
+<!-- ==================================================================================================================================================== -->
+<!-- This list will contain the scene's that you'll need to use this command "Teleport 10 10 10" to spawn in the actual map. Certain scene's like E3 2013, x7 VIP Club, No Mans Land etc,
+  will need these spaces.
+  
+  
+  • Audi Driving Technology Simulation Space
+  • Audi Technology Apartment
+  • No Man’s Land: Drydock
+  • E3 2013
+  • E3 2013
+  • x7 VIP Club
+  
+
+                                   | -->  Nagato
+								   
+								  Build Date: 1/4/2021 Official Build Alpha v2.00 (v1.32) 
+  <!-- ==================================================================================================================================================== -->
+<SCENE Name="GDC" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/the_hub/The_Hub.scene" />  
+<SCENE Name="Peakvox Apt" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/summerhouse/peakvoxapt2.scene" />
+<SCENE Name="Luxury Glass House" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/luxuryglasshouse/GlassHouse.scene" />
+<SCENE Name="おしゃべりファーム　ユグドラ市場" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/entrygate/OshaberiTest.scene"/>
+<SCENE Name="manS" Type="Home" SceneID="5a05bdb3-4fe8-07d8-826f-176d5d08a770" config="environments/luxapt_mansion_1f/Mansion.scene" />
+<SCENE Name="Acorn Meadows Park 4th Of July Edition (Night) VEEMEE" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/veemeepark/july.scene"/>
+<SCENE Name="Acorn Meadows Park Halloween Edition VEEMEE" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/veemeepark/Ween.scene"/>
+<SCENE Name="Acorn Meadows Park VEEMEE" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/veemeepark/veemee.scene"/>
+<SCENE Name="Action Forces Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/MiniGameTutorial/ActionForces.scene" />
+<SCENE Name="Adventure District" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scea_core_adventure/AD.scene"/>
+<SCENE Name="Andy's Room" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/andys_room/andy.scene" />
+<SCENE Name="Anime Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/luxuryapt/anime/anime.scene"/>
+<SCENE Name="Arcade Tutorial DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/ArcadeTutorial/ArcadeTutorial.scene" />
+<SCENE Name="Assassin's Creed II Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/ac2_apartment/CreedApt.scene" />
+<SCENE Name="Assassin’s Creed Abstergo Animus Labs" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/ac2_animus/lab.scene" />
+<SCENE Name="Audi Alpine Lodge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/audisled/AudiSled.scene" />
+<SCENE Name="Audi Home Terminal Old Version" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/audihubold/audihubold.scene"/>
+<SCENE Name="Audi Home Terminal" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/AudiHub/audihub.scene"/>
+<SCENE Name="Audi Technology Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/audiapt/AudiApt.scene" />
+<SCENE Name="Audi Vertical Run" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/Audivrun/AudiVRun.scene"/>
+<SCENE Name="Aurora Trophy Showcase Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/trophyapartment_001/Trophy.scene"/>
+<SCENE Name="Aurora" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/landsharkisland/aurora.scene" />
+<SCENE Name="Baked Lighting Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/bakedlightingsample/Lom_InterestPoints.scene" />
+<SCENE Name="Basic Clubhouse" Type="Home" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/Home_internal_SCEE/Home_Lobbies/Club_Houses/Club_House_V1/clubhouse.scene"/>
+<SCENE Name="BasicApartment" SceneID="88c92afa-dc36-5eed-bccd-d7fa5bdea71f" Type="Home" HOMEUID="0" version="0" Group="Apartments" KEYWORDS="Home" config="Environments/Home_internal_SCEa/Personal_Spaces/Basic_Apartment/Basic_Apartment1.scene" />
+<SCENE Name="Batman: Arkham Asylum Batcave Outpost" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/batcave/Batman.scene" />
+<SCENE Name="Blend Shader Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/blendshader/BlendShaderScene.scene" />
+<SCENE Name="Bootleggers ’29" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/bootlegger/boot29.scene"/>
+<SCENE Name="Bowling Alley" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/Home_internal_SCEE/Home_Lobbies/Game_Space/Bowling.scene"/>
+<SCENE Name="Bramblenook Farm" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/farm_bramblenook/FARM_Bramblenook.scene"/>
+<SCENE Name="Burn Zombie Burn" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/d6_test/BZB.scene"/>
+<SCENE Name="Buzz HQ Home Lobby" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="buzz_home_lobby/buzz.scene" />
+<SCENE Name="Buzz! Quiz Game Space" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="buzz_home_set/buzz.scene" />
+<SCENE Name="Capcom Sky Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/capcom_lounge_airshiptop/CapcomLoungeJP.scene"/>
+<SCENE Name="Cassie's Dance Studio Apartment nDream" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/dance_studio/dance.scene"/>
+<SCENE Name="Chamber Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/chamber/chamber.scene"/>
+<SCENE Name="City of Flowers Penthouse Window To The World" Type="Home" SceneID="" config="lg_world_paris/a_jp_00/map/scenes/GZParisApt.scene" />
+<SCENE Name="Clearasil Kart Racing" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/clear_confidencecoaster/kart.scene"/>
+<SCENE Name="Clearasil Ultra Fast Back To School Dash Hall Skate" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scenes/school/School.scene"/>
+<SCENE Name="Cloth Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/clothsample/ClothSampleScene.scene" />
+<SCENE Name="Cloth Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/clothsample/ClothSampleScene.scene" />
+<SCENE Name="Cogs Sky Platform" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="codename/cogs_demo/environments/platforms_inthesky_withdiamonds/COGS.scene" />
+<SCENE Name="Collision User ID Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/collisionuserid/CollisionUserID.scene" />
+<SCENE Name="Conspiracy" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/volcanobasestub/v.scene"/>
+<SCENE Name="Cutteridge Estate Personal Space" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/cutteridge_mansion/Cut.scene"/>
+<SCENE Name="Cutthroats: Battle for Black Powder Cove" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/2011/pub/pub_pirates/lake/scene/cove.scene"/>
+<SCENE Name="DISGAEA 3 Mao's Room" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/nis_overlord_castle/dis3.scene" />
+<SCENE Name="DUST 514 The Event Horizon Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/dust/war_room/War_Room.scene"/>
+<SCENE Name="Day Night Cycle Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/daynightcyclesample/DayNightCycle.scene" />
+<SCENE Name="Dead Nation Safe House" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/dead_nation_space_3b90_53bb/DEAD.scene" />
+<SCENE Name="Desert Haven Clubhouse Tour" SceneID="" Type="PublicLobby" HOMEUID="45218" version="0" KEYWORDS="Home" config="environments/2011/club/club_palmresort/Desert.scene" />
+<SCENE Name="Diamond Beach Mansion" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/beachmansion/BeachMansion.scene" />
+<SCENE Name="Diamond Beach Yacht Club & Marina" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="games/common/environments/public_beach/public_beach.scene"/>
+<SCENE Name="Diesel Island" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/dieselislandpublic/DieselIslandPublic.scene"/>
+<SCENE Name="Disgaea 4 Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/nis_hells_prison/dis4.scene" />
+<SCENE Name="Doctor Who Tardis" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/doctorwho_tardis/DRWHO.scene"/>
+<SCENE Name="Dragon's Green Golfing" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/Arcade_Hub/Arcade_Hub.scene"/>
+<SCENE Name="Dream Hideway" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="apartments/stand_alone/jungle_apartment/jungle.scene"/>
+<SCENE Name="Drop Science Subway" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/subway_apartment/subway.scene"/>
+<SCENE Name="Dynamic Lighting Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/MiniGameTutorial/DynamicLightingSample.scene" />
+<SCENE Name="E3®2011" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/e3_booth/E32011.scene"/>
+<SCENE Name="E3®2012 Theatre" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/the_venue/E32012Movie.scene"/>
+<SCENE Name="E3®2012" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/e3_booth_2012/E32012.scene"/>
+<SCENE Name="E3®2013" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/e3_booth_2013/E3Booth2013.scene"/>
+<SCENE Name="EA Sports Complex" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/easc/EA.scene" />
+<SCENE Name="EA Sports Golf Complex" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/easc/EAGOLF.scene" />
+<SCENE Name="EA Sports Racing Complex First Floor" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/easc/EASC_Racing.scene" />
+<SCENE Name="EA Sports Racing Complex" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/easc/EARace.scene" />
+<SCENE Name="Edo Tenement House Personal Space" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="edo/a_jp_00/map/scenes/edoApt.scene" />
+<SCENE Name="Engine Settings Sample DEV Scene " SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/MiniGameTutorial/EngineSettingsSample.scene" />
+<SCENE Name="Entity Animation Blending DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/MiniGameTutorial/EntityAnimationBlending.scene" />
+<SCENE Name="F.U.B.A.R. Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/managerbackground/FUBAR.scene"/>
+<SCENE Name="FPS Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/htsspaces/htscargohold/HTS_CargoHold_FpsSample.scene" />
+<SCENE Name="Far Cry 2: Reuben’s Office" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/FarCry2_ReubensRoom/farcryoffice.scene"/>
+<SCENE Name="Far Cry 2: Train Station" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/farcry_trainstation_b/FarCry2Train.scene"/>
+<SCENE Name="Feva Arena Entrance" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/fifa_comarea/FevaArena1.scene"/>
+<SCENE Name="Feva Arena" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/fifa_pitch/Feva.scene"/>
+<SCENE Name="Fight Night Round 4 EA Sports Complex" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/fightnight/FightNight.scene"/>
+<SCENE Name="French Chateau Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/2011/PUB/pub_frenchchateau/Pub_FrenchChateau.scene" />
+<SCENE Name="Game Moonbase" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/game_moonbase_244e_aa34/Moonbase.scene"/>
+<SCENE Name="GamesCom 2009" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/gamescom_2009_Podium/Gamescom.scene"/>
+<SCENE Name="GamesCom 2012" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/gamescom_event_space_4c0f_bda2/Gamescom2012.scene"/>
+<SCENE Name="Gamescom 2013 Event" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="gamescom/environments/scenes/Gamescom2013.scene"/>
+<SCENE Name="Ghostbusters Firehouse On Location Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/Ghostbusters_Apartment/Ghostbusters_Apartment.scene"/>
+<SCENE Name="Gothic Cathedral" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/gothic_house/gothic.scene"/>
+<SCENE Name="GranZella Hankagai Lounge Neon ga Shimiru Hankagai" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="hankagai/Hankagai.scene"/>
+<SCENE Name="Granzella Glittering Sands Beach" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="lg_seaside/GZBeach.scene"/>
+<SCENE Name="Granzella Glittering Sands TANABATA 2013 Event" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="lg_seaside/a_jp_00/map/scenes/lg_seaside_map_G000_eu07.scene"/>
+<SCENE Name="Granzella Great Edo Of Nippon" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="edo/a_jp_00/map/scenes/edoGZ.scene"/>
+<SCENE Name="Granzella Southern Island Hideaway Valentine Day 2013 Event" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="lounge_base/a_jp_00/map/scenes/gzsouthVal.scene"/>
+<SCENE Name="Gravity Crash Space™" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/gravity_crash_maze_7fa3_7bf8/gravity.scene" />
+<SCENE Name="Great Edo of Nippon - Monoke Bon Festival" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="edo/a_jp_00/map/scenes/GZBon.scene"/>
+<SCENE Name="Guitar Hero Backstage" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/gh_backstage/GuitarHero.scene"/>
+<SCENE Name="Gymnasium DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/testroom/testroom.scene" />
+<SCENE Name="HTS Aeronautilus DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/hts_spaces/hts_airship/hts_airship.scene" />
+<SCENE Name="HTS Electrical Space DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/htsspaces/htselectricalspace/HTS_Electricity.scene" />
+<SCENE Name="Harry Potter - Pottermore Forbidden Forest (Broomstick Racing)" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/broomstick_racing/PottermoreForbidden.scene"/>
+<SCENE Name="Harry Potter: Pottermore Diagon Alley" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/diagon_alley/Alley.scene" />
+<SCENE Name="Harry Potter: Pottermore The Great Hall" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/greathall/GreatHall.scene"/>
+<SCENE Name="Heavy Water Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scenes/water.scene"/>
+<SCENE Name="Hed Kandi Beach Event Space" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/headkandi/HedKandiBeach.scene"/>
+<SCENE Name="Hed Kandi Music Unlimited" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/headkandi/hedkandi.scene"/>
+<SCENE Name="Home Grown Laboratory" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/hgl_factory/HGH.scene"/>
+<SCENE Name="Home Square" SceneID="fb97e756-a028-0a4c-8691-c21a29aabbff" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Square,Home" config="Environments/Home_internal_SCEE/Home_Lobbies/Home_Square/Home_Square.scene" />
+<SCENE Name="Home Tycoon: New Heights Train Station" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/trainstation/home.scene"/>
+<SCENE Name="Hot Shots Golf Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/MG_Lounge/golf.scene"/>
+<SCENE Name="Hudson Bomber Dome" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/bomber_dome/HudsonDome.scene"/>
+<SCENE Name="Hudson Gate" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/hudson_gate/hg.scene"/>
+<SCENE Name="Hudson Theater" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/hudson_theater/HudsonMovie.scene"/>
+<SCENE Name="IREM Gathering Place for Cave Explores" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="v8lounge/c_us_00/map/scenes/Cave.scene"/>
+<SCENE Name="Infamous The Abandoned Docks Of Empire City" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/infamous_docks/Infamous.scene"/>
+<SCENE Name="Inferno Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/VOLCANO/HOT.scene"/>
+<SCENE Name="Interactive Slideshow Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/MiniGameTutorial/InteractiveSlideshowSample.scene" />
+<SCENE Name="Irem Market SCEJ" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="irema8/IremMarket.scene"/>
+<SCENE Name="Irem SeaSide" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/iremisland/iremisland.scene"/>
+<SCENE Name="Irish Pub" Type="Home" SceneID="" config="environments/irishpubapt/IrishPub.scene" />
+<SCENE Name="Island Bungalow" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/2011/club/club_islandbungalow/Bungalow.scene"/>
+<SCENE Name="Jetsetter Private Plane" SceneID="" Type="home" HOMEUID="45218" version="0" KEYWORDS="Home" config="environments/private_plane/plane.scene" />
+<SCENE Name="Joe's Boxing Gym Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/dance_studio/joe.scene"/>
+<SCENE Name="Killer Plants from Outer Space" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/KillerPlantsFromOuterSpace/Killer.scene"/>
+<SCENE Name="Killzone 2 Visari Throne Room " SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/hgh_appartment/KillZone.scene"/>
+<SCENE Name="Konami Club Luminosity" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/neon_club/KonamiLumo.scene" />
+<SCENE Name="Konami Penthouse" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/konami_space/Konami_Space.scene"/>
+<SCENE Name="LOD Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/lodsamplescene/LodSampleScene.scene" />
+<SCENE Name="LOOT Hollywood Hills Daytime Estate" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_theater_pad/Hollywood.scene"/>
+<SCENE Name="LOOT Hollywood Hills Nighttime Estate" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_theater_pad/home_theater_pad_nighttime.scene"/>
+<SCENE Name="LOOT Modular Sound Stage Set" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/soundstage_three/LootStage.scene" />
+<SCENE Name="LOOT Space Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/loot_space_apartment/LootSpace.scene" />
+<SCENE Name="LOOT Space Station" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/loot_space_station/LootSpaceStation.scene" />
+<SCENE Name="Las Vegas Suite Personal Space" SceneID="" version="0" Type="HOME" Group="Home" KEYWORDS="Home" config="environments/lasvegas_suite/vegas.scene"/>
+<SCENE Name="Little Big Planet Playground" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/lbphomehub/LBPHUB.scene" />
+<SCENE Name="Little Big Planet Pod Penthouse" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/LBPHomeCreator/pod.scene" />
+<SCENE Name="Little Big Planet Toyota Prius Solar Scramble" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/toyota/ToyotaLBP.scene"/>
+<SCENE Name="Lockwood Dream Central" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="apartments/island_developement/hub_1/dream.scene"/>
+<SCENE Name="Lockwood Dream Island Apartment" Type="Home" SceneID="" config="apartments/island_developement/millionaire_apartment/Test1.scene" />
+<SCENE Name="Lockwood Gift Shop" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/lockwood_store/gift_shop_release_3/gift.scene" />
+<SCENE Name="Loco Roco Mui Mui Island" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/locohouse/Locoroco.scene"/>
+<SCENE Name="Loco Roco MuiMui Ship" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/muimuiship/mui.scene" />
+<SCENE Name="Loot's Sunset Yacht" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/island_boat/YachtSun.scene"/>
+<SCENE Name="Luxury Apartment PlanetLand Personal Space SCEA" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/luxuryapt/planetland/Apt.scene" />
+<SCENE Name="Luxury Weekend Lake House" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/personal_spaces/log_cabin/Lake.scene"/>
+<SCENE Name="Luxury Yacht Santorini Greece Personal Space" SceneID="" version="0" Type="HOME" Group="Home" KEYWORDS="Home" config="environments/luxuryapt/yacht/luxuryapt_yacht.scene"/>
+<SCENE Name="Manhattan City Penthouse" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/personal_spaces/manhattan_apartment/newyork.scene"/>
+<SCENE Name="Masquerade Ball - The Ballroom Personal Space" SceneID="" version="0" Type="Home" Group="Home" KEYWORDS="Home" config="environments/gothic/BALLROOM.scene"/>
+<SCENE Name="Men In Black Headquarters" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/mib_headquater/MIB_Headquater.scene"/>
+<SCENE Name="Mini Game Tutorial DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/MiniGameTutorial/MiniGameTutorial.scene" />
+<SCENE Name="MiniBots Training Facility" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/minibots_training_facility/bot.scene"/>
+<SCENE Name="ModNation Racing Pit Stop Club" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/modnation/ModNationClub.scene"/>
+<SCENE Name="Modnation Racers BackStage Pass" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/modn_event_backstage_2ee9_afb3/Modnation.scene"/>
+<SCENE Name="MotorStorm: Carrier" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/_motorstorm/ms_carrier/ms_Carrier.scene"/>
+<SCENE Name="NRage" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/nrage_blockout/nRage.scene" />
+<SCENE Name="Namco Arcade Center" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/bng_carrot7/NamcoArcade.scene" />
+<SCENE Name="Namco Theatre" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/playmax2/NamcoMovie.scene" />
+<SCENE Name="Neptune Suite" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/neptune/Neptune.scene"/>
+<SCENE Name="Nightlife Lounge Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/2011/pub/pub_lounge/Night.scene"/>
+<SCENE Name="No Man's Land Tutorial Level 1 Subway" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/level1/NoManLandTutorial.scene" />
+<SCENE Name="No Man’s Land: Drydock" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/cargobayhub/NoMan.scene"/>
+<SCENE Name="Novus Prime" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/Nebulon/prime.scene"/>
+<SCENE Name="Object Instance Example DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/ObjectInstanceExample/ObjectInstanceExample.scene" />
+<SCENE Name="ObjectProfiler" SceneID="db9e9811-5510-060e-b712-8df9f4c67bd3" Type="Home" HOMEUID="99999" version="0" Group="Apartments" KEYWORDS="Home" config="Environments/ObjectProfiler/ObjectProfiler.scene" />
+<SCENE Name="Oscar's Lobster Mania Island" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/olm_beachapt/oscar.scene"/>
+<SCENE Name="Palace Of The Seven Winds" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/seven_winds/Seven_Winds.scene" />
+<SCENE Name="Party at Jess's Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/summerhouseparty/summerhouseparty.scene" />
+<SCENE Name="Peakvox Labs" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/peakvoxlounge/Peakvox.scene"/>
+<SCENE Name="Peakvox Ninja Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/pns_lounge/PeakvoxNinjaLounge.scene"/>
+<SCENE Name="PixelJunk Exhibition" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/pjmuseum/pjmuseum.scene"/>
+<SCENE Name="PixelJunk Shooter Mother Ship Hanger" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/shooter_spaceship/JunkShooter.scene"/>
+<SCENE Name="PlayStation Home Mansion Garage Personal Space" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/2010/per/per_mansion/luxapt_mansion_garage/LuxApt_Mansion_Garage.scene" />
+<SCENE Name="PlayStation Move BackStage Pass Event" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/scee_psmove_backstag_e4fd_5641/PSmove.scene" />
+<SCENE Name="PlayStation Network Mini's Event Space" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/playstation_network_4f38_f0b7/psn.scene"/>
+<SCENE Name="PlayStation Network Mini's Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scee_hoh_minis_top_8aa7_dd62/PSNMiniSpace.scene"/>
+<SCENE Name="PlayStation Plus Private Members Club" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/playstation_plus_5abc_6eaa/Plus.scene"/>
+<SCENE Name="PlayStation The Studio Mini's Space" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/The_Studio_7EA8_A1A/Studio.scene"/>
+<SCENE Name="PlayStation Vita Lounge SCEE" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/jcafe/Vita_cafe.scene" />
+<SCENE Name="Plum Tree Pavilion Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/2011/per/per_modasian/plum.scene" />
+<SCENE Name="Prehistoric Valley Personal Space" SceneID="" version="0" Type="Home" Group="Home" KEYWORDS="Home" config="apartments/dinotop/dinotop/Prehistoric.scene"/>
+<SCENE Name="RC Rally Public Space" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/rc_track1/rcRally.scene" />
+<SCENE Name="RaceOn Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/race_on_garage/RaceOnApt.scene" />
+<SCENE Name="Radd & Son Garage Rooftop Apartment" Type="Home" SceneID="" config="games/common/emo.scene" />
+<SCENE Name="Ratchet & Clank Time Travelers" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/nsirchome_hub_2bc9_87fd/ratchet.scene"/>
+<SCENE Name="Ratchet & Clank Firing Range" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/nsirchome_skunkworks_143c_baef/ratchetskunk.scene"/>
+<SCENE Name="Red Bull Air Race World" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/red_bull/RedBullAirRace.scene" />
+<SCENE Name="Red Bull Beach" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/red_bull_beach/RedBullBeach.scene"/>
+<SCENE Name="RedBull Hub" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/red_bull_hub/RedBullHub.scene"/>
+<SCENE Name="Repertoire Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/MiniGameTutorial/RepertoireSample.scene" />
+<SCENE Name="Resident Evil 5 Studio Lot" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_bh5/scenes/RE5.scene"/>
+<SCENE Name="Resistance 2 Station" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/r2station/R2.scene" />
+<SCENE Name="S.I.N.'s Secret Base from Street Fighter IV" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/stage_lab/Fighter.scene" />
+<SCENE Name="SCEA Action District" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scea_core_action/Action.scene"/>
+<SCENE Name="SCEA Auditorium 1" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/theatre/auditorium/movie1.scene"/>
+<SCENE Name="SCEA Auditorium 2" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/theatre/auditorium/Movie2.scene"/>
+<SCENE Name="SCEA Auditorium 6" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/theatre/auditorium/movie6.scene"/>
+<SCENE Name="SCEA Central Plaza Dead Island Edition" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/deadisland_plaza/dead.scene" />
+<SCENE Name="SCEA Central Plaza KillZone 3 Edition" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/killzone_plaza/CPKill.scene" />
+<SCENE Name="SCEA Central Plaza Winter Edition" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scea_core_plaza/CentralPlazaWinter.scene"/>
+<SCENE Name="SCEA Central Plaza" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scea_core_plaza/CentralPlaza.scene"/>
+<SCENE Name="SCEA Mall 1st Floor" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scea_core_marketplace/FirstFloor.scene"/>
+<SCENE Name="SCEA Mall 2nd Floor" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scea_core_marketplace/Floor2.scene"/>
+<SCENE Name="SCEA Original Mall" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scea/home_lobbies/marketplace/OGMALLUSA.scene"/>
+<SCENE Name="SCEA Pier Park" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/scea_core_casual/pier.scene" />
+<SCENE Name="SCEA Sports Walk" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scea_core_sports/Sport.scene"/>
+<SCENE Name="SCEA The Gamer's Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scej/home_lobbies/jcafe/GamersLounge.scene"/>
+<SCENE Name="SCEA The Hub Street Fighter X Tekken" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scea_plaza_station_streetfighter/HubFighter.scene"/>
+<SCENE Name="SCEA The Hub" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scea_plaza_station/SCEAHUB.scene"/>
+<SCENE Name="SCEE Christmas Home Square" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/home_internal_scee/home_lobbies/homesquare3/HomeSquareXmas3.scene" />
+<SCENE Name="SCEE Cinema Auditorium 0.89 HDK" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scea/home_lobbies/cinema/Cinema_Auditorium_Nova.scene"/>
+<SCENE Name="SCEE Cinema Auditorium" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/home_lobbies/cinema_auditorium/SCEEMovieTest.scene"/>
+<SCENE Name="SCEE Home Square Version 2 (Halloween Edition)" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/home_lobbies/home_square_2/ween/SCEEHomeSquare2Ween.scene"/>
+<SCENE Name="SCEE Home Square Version 2 (Winter Edition)" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/home_lobbies/home_square_2/xmas/HomeSquareXmas2.scene"/>
+<SCENE Name="SCEE Home Square Version 3" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/home_lobbies/homesquare3/HomeSquare3.scene" />
+<SCENE Name="SCEE Home Square" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/home_lobbies/home_square_2/EUHomeSquare.scene"/>
+<SCENE Name="SCEE Home Theatre Cinema" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/Home_internal_SCEE/Home_Lobbies/Cinema/SCEECinema.scene"/>
+<SCENE Name="SCEE Indie Park" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/home_lobbies/casualgamespace/indie.scene"/>
+<SCENE Name="SCEE Original Home Square 0.5.1" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/Home_internal_SCEE/Home_Lobbies/Home_Square/HomeSquareOG.scene" />
+<SCENE Name="SCEE Original Mall" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/home_lobbies/marketplace/SCEEOGMALL.scene"/>
+<SCENE Name="SCEE Shopping Mall East" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/home_internal_scee/home_lobbies/marketplace_2/EastMall.scene" />
+<SCENE Name="SCEE Shopping Mall West" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/home_internal_scee/home_lobbies/marketplace_2_extension/WestMall.scene" />
+<SCENE Name="SCEE Test Arcade Cabinet Game Development 0.89" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/ArcadeTutorial1/ArcadeTutorialCompleted.scene"/>
+<SCENE Name="SCEE Test Ball Physics Development 0.89" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/ScriptedSceneTutorial1/ScriptedSceneTutorialCompleted.scene"/>
+<SCENE Name="SCEE Test Mini-Game Development 0.89" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/MiniGameTutorial1/MiniGameTutorial.scene"/>
+<SCENE Name="SCEE Test Video Development 0.89" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/VideoScreenTutorial/VideoScreenTutorialCompleted.scene"/>
+<SCENE Name="SCEE Tree House Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/personal_spaces/tree_house/tree.scene"/>
+<SCENE Name="SCEE Water Development Test 0.89" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/WaterTutorial/WaterTutorial.scene"/>
+<SCENE Name="SCEJ Marketplace" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scej/home_lobbies/marketplace/JapanMarket.scene" />
+<SCENE Name="SCEJ Music Cafe ホームカフェ" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scej/home_lobbies/jcafe_music/jcafe_music_nova.scene"/>
+<SCENE Name="SCEJ ホームスクエア HDK 1.80.0.53.PUB" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scej/home_lobbies/jhome_square/JapanHomeSquareOG.scene"/>
+<SCENE Name="SCEJ ホームスクエア Winter Night Edition" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scej/home_lobbies/jhome_square_2010_win_night/JHome_Square_Sky_2010_win_night.scene"/>
+<SCENE Name="SCEJ ホームスクエア 日没" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/JapanHomeSquare3/home_internal_scej/home_lobbies/jhome_square_2010_win_night/JapanHomeSquareSun.scene" />
+<SCENE Name="SCEJ ホームスクエア" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/JapanHomeSquare/home_internal_scej/home_lobbies/jhome_square_2010_win_night/JapanHomeSquareDay.scene"/>
+<SCENE Name="Screens Example DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/screensexample/ScreensExample.scene" />
+<SCENE Name="Scripted Scene Tutorial DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/ScriptedSceneTutorial/ScriptedSceneTutorial.scene" />
+<SCENE Name="Scripted Sky DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/scriptedskyscene/ScriptedSkyScene.scene" />
+<SCENE Name="SeaClyff Retreat" Type="Home" SceneID="" config="environments/racing_apt/SeaClyff.scene" />
+<SCENE Name="Serenity Plaza Mini-Bots Halloween Spooktacular" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/minib_minibot_city/minibot.scene"/>
+<SCENE Name="Serenity Plaza Minibots" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/minib_minibot_city/SerenityPlaza.scene"/>
+<SCENE Name="Simple Animation Example DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/simpleanimationexample/anim_obj_world.scene" />
+<SCENE Name="SingStar Christmas VIP Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/home_lobbies/VIP_Scene/SingStarXmas.scene"/>
+<SCENE Name="SingStar Original 2009" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="ENVIRONMENTS/Home_internal_SCEE/Home_Lobbies/singstar/SingStar_Main.scene"/>
+<SCENE Name="Siren Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/siren_hos_entrance/Siren.scene" />
+<SCENE Name="Siren Lounge: Ward of Despair" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/siren_hos_1f/Siren2.scene" />
+<SCENE Name="Slap Happy Sam's Stage Show" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/gd_tent1_environment_v1/Slap.scene"/>
+<SCENE Name="Sodium 1 Salt Shooter Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/sodium_one_apartment/sodium_one_apartment.scene"/>
+<SCENE Name="Sodium 2 Project Velocity" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/sodium2_desertracer/Sodium2.scene"/>
+<SCENE Name="Sodium Blimp" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/sodiumblimp/sodium_blimp/models/Blimp.scene"/>
+<SCENE Name="Sodium Hub 1.3.2.16.BETA1" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/sodium1ver2/sodium1ver2.scene"/>
+<SCENE Name="Sodium Hub" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/sodium/Sodium1.scene"/>
+<SCENE Name="Spirit of Ibiza Pacha VidZone Music Unlimited Club SCEE" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/pacha_eventspace/Spirit.scene"/>
+<SCENE Name="Summer House" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/Home_internal_SCEE/Personal_Spaces/summerhouse/Summer.scene"/>
+<SCENE Name="Sunset Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="apartments/island_developement/sunset_lounge/Sunset.scene"/>
+<SCENE Name="Tekken 6 - Mishima Zaibatsu Recreation Floor" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/bng_tekken6_lounge7/Tekken6.scene"/>
+<SCENE Name="The Avalon Keep Personal Space" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/avalon_spaces/assets_public_space_01/avalon.scene"/>
+<SCENE Name="The Casino Penthouse Suite Personal Space" SceneID="" version="0" Type="Home" Group="Home" KEYWORDS="Home" config="environments/viphotelsuite2/CasinoPenthouse.scene"/>
+<SCENE Name="The Casino: Bingo Hall Paradise Room" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/casinobingohall/BingoHall.scene"/>
+<SCENE Name="The Casino: Complimentary Hotel Room" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/cheaphotelspace/casinoHotel.scene" />
+<SCENE Name="The Casino: Paradise Springs Poker Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/casinopokerroom/casino.scene"/>
+<SCENE Name="The Complex" Type="Home" SceneID="" config="environments/complex/TheComplex.scene" />
+<SCENE Name="The Dream Yacht Arctic Voyage" SceneID="" Type="home" HOMEUID="45218" version="0" KEYWORDS="Home" config="environments/scenes/yacht_arctic/YachtCold.scene" />
+<SCENE Name="The Ford Showroom" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/ford_showroom/Ford.scene"/>
+<SCENE Name="The Godfather II" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/godfather_2/gf2.scene" />
+<SCENE Name="The LucasArts Star Wars Cantina" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/layerout/starwars.scene"/>
+<SCENE Name="The Midnight Glade" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/fire_on_a_hill/Midnight.scene" />
+<SCENE Name="The Midway 2" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scenes/Midway2.scene"/>
+<SCENE Name="The Midway 3" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scenes/themidway3.scene"/>
+<SCENE Name="The Midway Darla's Den Personal Space" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/themidway_p_13/themidway_p_13/DarlaDen.scene"/>
+<SCENE Name="The Midway HotZone" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/midway_hotspot/HotZone.scene"/>
+<SCENE Name="The Midway" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/Themidway/Themidway.scene"/>
+<SCENE Name="The Nightmare Yacht" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/scenes/Spooky.scene"/>
+<SCENE Name="The Paradise Springs Casino Lounge" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="CasinoMain/environments/casinomainfloor/casinoTEST.scene"/>
+<SCENE Name="The Pet Shop & Aquarium" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/aquariumpetshop/pet.scene"/>
+<SCENE Name="The PlayGround" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/playground/pg.scene"/>
+<SCENE Name="The Prairie Ranch Personal Space" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="apartments/simple_apartments/autumn_fields/ranch.scene" />
+<SCENE Name="The Prairie Saloon" Type="Home" SceneID="" config="apartments/ranch/ranch_clubhouse/Saloon.scene" />
+<SCENE Name="The Spunland Cottage" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/Spunland/SPUNLAND.scene"/>
+<SCENE Name="Theatre" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/theatre/movie.scene" />
+<SCENE Name="Thumbnailroom" SceneID="8e754987-0698-04d0-10f1-005a431815bc" Type="Home" HOMEUID="45218" version="0" KEYWORDS="Home" config="environments/thumbnailroom/thumbnailroom.scene" />
+<SCENE Name="Tropical Escape SCEA" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/luxuryapt/island/tropical.scene"/>
+<SCENE Name="Tuscan Villa Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/2011/per/per_tuscan_villa/Tuscan.scene"/>
+<SCENE Name="Tycoon Penthouse" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/2010/per/per_tycoonpenthouse/Tycoon.scene" />
+<SCENE Name="UFC Octagon Personal Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/ufc_octagon/UFC.scene"/>
+<SCENE Name="Uncharted - Sully's Bar" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/UnchartedBar/Sully.scene"/>
+<SCENE Name="Uncharted 2 Nepalese Village" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/uncharted2/Uncharted2.scene"/>
+<SCENE Name="Uncharted 3 Yemen" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/uncharted3_yemen/Uncharted3_Yemen.scene"/>
+<SCENE Name="Uncharted: Artifact Room" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/unchartedroombehind/unchartedroombehind.scene"/>
+<SCENE Name="Uncharted: Smuggler's Den" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/unchartedsmugglersden/UnchartedSmugglersDen.scene"/>
+<SCENE Name="Underwater Apartment" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/home_internal_scee/personal_spaces/underwater_apartment/UnderWater.scene" />
+<SCENE Name="Uproar" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/EmergencyState/emergency_state/models/uproar.scene" />
+<SCENE Name="Video Recorder Sample DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/MiniGameTutorial/VideoRecorderSample.scene" />
+<SCENE Name="Virtua Tennis 4 Baseline Battle" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/virtuatennisapt/VT.scene" />
+<SCENE Name="Warhawk Command Center" Type="PublicLobby" SceneID="" config="Environments/Warhawk/Warhawk.scene" />
+<SCENE Name="Water Example 1.3.6 DEV Scene" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/htsspaces/htswaterexample/HTSWaterExample.scene" />
+<SCENE Name="Western Frontier" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/westernfrontier/WEST.scene"/>
+<SCENE Name="Winter Holiday Hullabaloo 2011" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/scea_winterevent/Holiday2011.scene"/>
+<SCENE Name="Winter Vacation Villa Personal Space" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/2010/per/per_skichalet/LuxApt_SkiChalet.scene"/>
+<SCENE Name="Winter Wonderland 2009" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/home_lobbies/xmas_event_2009/xmas2009.scene"/>
+<SCENE Name="WipEout" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/wipeout_homespace/wipeout.scene" />
+<SCENE Name="Wizards Den Personal Space" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="environments/wz_lair/den.scene"/>
+<SCENE Name="XI blue room????" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="game/additionalincidentals/bgbuildings/xicity.scene" />
+<SCENE Name="Xi AlphaZone 1 Hexathlon" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/xi_alphazone1/xihex.scene" />
+<SCENE Name="Xi AlphaZone 3 RiddleMaze" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/xi_alphazone3/Riddle3.scene" />
+<SCENE Name="Xi Finale - White Hall" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="Environments/xi_whiteroom/Xi_WhiteRoomFinale.scene" />
+<SCENE Name="Xi Hub" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scee/xi_lobbies/xihub/XiHub_FieldED.scene"/>
+<SCENE Name="Xi Maximum Tilt" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/xi_alphazone1/maximumtilt/Xi_AZ1_BikeRooms.scene"/>
+<SCENE Name="Yeck Land" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/yeckland_rt1/yeck.scene"/>
+<SCENE Name="Yeti VS Hunter" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/SCEA_Core_Plaza_Yeti/yeti.scene"/>
+<SCENE Name="x7 Entrance" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/vip_club/x7door.scene"/>
+<SCENE Name="x7 VIP Club" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/vip_club/x7.scene"/>
+<SCENE Name="おしゃべりファーム (Oshaberi Farms)" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/farm00/OshaberiFarm.scene"/>
+<SCENE Name="おしゃべり農園 (Oshaberi Farm Garden)" SceneID="" version="0" Type="Home" Group="Home" KEYWORDS="Home" config="environments/personalgarden/OshaberiFarmGardens.scene"/>
+<SCENE Name="シアター (SCEJ Japan Cinema Auditorium)" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/Home_internal_SCEJ/Home_Lobbies/JCinema_Auditorium/JapanMovie.scene"/>
+<SCENE Name="ピークヴォックスモンスター (Peakvox Monsters)" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/dungeon_lounge/PeakvoxMonster.scene"/>
+<SCENE Name="ホームスクエア Winter 2010" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/home_internal_scej/home_lobbies/jhome_square_2010_win_night/jhome_square_sky_2010_win_night.scene"/>
+<SCENE Name="四季彩の部屋 Peakvox Seasonal Themed Room" SceneID="" version="0" Type="home" Group="Home" KEYWORDS="Home" config="Environments/pns_lounge/pns.scene" />
+<SCENE Name="夕暮れのグランゼーラ広場 (GranZella Square Sunset)" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="lg_gzspace/a_jp_00/map/scenes/GZSquare.scene"/>
+<SCENE Name="怪物ジャポン 一本釣り (GAW Japanese Monster Fishing)" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/fishing_room_01/GAW.scene"/>
+<SCENE Name="昭栄王国ダンスフロア (Shoei Kingdom Dance Floor)" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="ShoeiDance/environments/phk_lounge/KingdomJapanDanceFloor.scene"/>
+<SCENE Name="照英王国 (Shoei Kingdom JP)" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/phk_lounge/ShoeiJP.scene"/>
+<SCENE Name="照英王国 Shoei Kingdom (JP) Ayame Kingdom Edition HDK 1.80.0.53.PUB" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="environments/phk_lounge/KingdomJapan.scene"/>
+<SCENE Name="銀玉人情商店街" SceneID="" version="0" Type="PublicLobby" Group="Home" KEYWORDS="Home" config="irema8/a_jp_00/map/scenes/IremMarketJapanOG.scene"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</SCENELIST>
